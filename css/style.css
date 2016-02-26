@@ -2,7 +2,7 @@
 
 body {
   padding:50px;
-  font:19px Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:23px Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#222;
 }
 
@@ -30,9 +30,9 @@ header {
 }
 
 section {
-  width:700px;
+  width:800px;
   float:right;
-  padding-bottom:50px;
+  padding-bottom:75px;
 }
 
 small {
@@ -40,14 +40,14 @@ small {
 }
 
 footer {
-  width:270px;
+  width:300px;
   float:left;
   position:fixed;
   bottom:50px;
 }
 
 .content {
-  width:900px;
+  width:1000px;
   margin:0 auto;
 }
 
