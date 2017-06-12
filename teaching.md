@@ -12,7 +12,8 @@ title: teaching
 
 **Instructor@University of Illinois**  
 **BADM352: Database Design and Management.** [[course page]](badm352)    
-[spring 2017, fall 2016, spring 2016, fall 2015]
+[spring 2017, fall 2016, spring 2016, fall 2015]  
+*This course is awarded as "List of Teachers Ranked as Excellent".*
 <br><br><br>
 
 
