@@ -7,7 +7,13 @@ body {
   /*font-family: 'Open Sans', sans-serif;*/
   
 }
-
+@media only screen and (min-width: 481px) {
+  body {
+    padding-top: 24px;
+    padding-right: 24px;
+    padding-left: 24px;
+  }
+}
 h2{
   color:#222;
   margin:0 0 30px;

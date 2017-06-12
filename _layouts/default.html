@@ -1,25 +1,16 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>yi yang homepage </title>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  {% include header.html %}
 
-    <link rel="stylesheet" href="{{ site.url }}/css/style.css">
-    <link href="https://fonts.googleapis.com/css?family=Lato:700,300" rel="stylesheet" type="text/css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    
-  </head>
   
   <body>
     <div class="content">
       <header>
       	<p>&nbsp</p><p>&nbsp</p>
 
-        	<p class="view"><a href="http://yya518.github.com">home</a></p>
-		      <p class="view"><a href="publications.html">publications</a></p>
-		      <p class="view"><a href="teaching.html">teaching</a></p>
+        	<p class="view"><a href="index">home</a></p>
+		      <p class="view"><a href="publications">publications</a></p>
+		      <p class="view"><a href="teaching">teaching</a></p>
           <img src="email.png" width=119 height=17>
       </header>
       
@@ -29,10 +20,11 @@
       </section>
       
       <footer>
-        <p><small>Last update: April, 13th, 2017</small><br>
+        <p><small>Last update: June, 10th, 2017</small><br>
         <small>Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> </small></p>
       </footer>
     </div>
 
+  {% include ga.html %}
   </body>
 </html>
