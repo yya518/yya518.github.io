@@ -14,7 +14,7 @@ Topics covered in this course include:
 * Advanced database topics: Transaction, Database Scaling, NoSQL, and an introduction to Business Intelligence and Data Mining. 
 
 
-&#9733;*This course is awarded as "List of Teachers Ranked as Excellent"* in two consecutive semesters, Spring 2017 and Fall 2016.
+&#9733;*This course is awarded as "Teachers Ranked as Excellent by Their Students"* in two consecutive semesters, Spring 2017 and Fall 2016.
 
 **Lectures:**
 

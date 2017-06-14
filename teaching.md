@@ -14,7 +14,7 @@ title: teaching
 **BADM352: Database Design and Management.** [[course page]](badm352)    
 [Spring 2017, Fall 2016, Spring 2016, Fall 2015]    
 
-&#9733;*This course is awarded as "List of Teachers Ranked as Excellent"* in two consecutive semesters, Spring 2017 and Fall 2016.
+&#9733;*This course is awarded as "Teachers Ranked as Excellent by Their Students"* in two consecutive semesters, Spring 2017 and Fall 2016.
 <br><br><br>
 
 
