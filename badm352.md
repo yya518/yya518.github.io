@@ -11,8 +11,10 @@ Topics covered in this course include:
 
 * How to store data: ER Model, Relational Model, Normalization. 
 * How to retrieve data: MySQL. 
-* Advanced database topic: Transaction, Database Scaling, NoSQL, Data Warehousing, Data Mining. 
+* Advanced database topics: Transaction, Database Scaling, NoSQL, and an introduction to Business Intelligence and Data Mining. 
 
+
+&#9733;*This course is awarded as "List of Teachers Ranked as Excellent"* in two consecutive semesters, Spring 2017 and Fall 2016.
 
 **Lectures:**
 

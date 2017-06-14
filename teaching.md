@@ -12,11 +12,12 @@ title: teaching
 
 **Instructor@University of Illinois**  
 **BADM352: Database Design and Management.** [[course page]](badm352)    
-[spring 2017, fall 2016, spring 2016, fall 2015]  
-*This course is awarded as "List of Teachers Ranked as Excellent".*
+[Spring 2017, Fall 2016, Spring 2016, Fall 2015]    
+
+&#9733;*This course is awarded as "List of Teachers Ranked as Excellent"* in two consecutive semesters, Spring 2017 and Fall 2016.
 <br><br><br>
 
 
 **Teaching Assistant@Northwestern University**  
-EECS 348: Introduction to Artificial Intelligence.  [spring 2015]  
-EECS 211: Fundamentals of Computer Programming (C++).  [fall 2010]
+EECS 348: Introduction to Artificial Intelligence.  [Spring 2015]  
+EECS 211: Fundamentals of Computer Programming (C++).  [Fall 2010]

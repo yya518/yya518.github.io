@@ -17,3 +17,9 @@ I obtained Ph.D. degree in Computer Science at Northwestern University in 2015. 
 I also worked as intern at IBM T.J.Watson Research and Amazon AWS. <br>
 
 I jog and cycle.
+
+
+For more information about my research, please see [Publications](publications).
+
+For more information about my current/recent teaching, please see [Teaching](teaching).
+
