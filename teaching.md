@@ -8,6 +8,8 @@ title: teaching
 * * * 
 <br>
 **Instructor@Hong Kong University of Science and Technology**
+**ISOM3360: Data Mining for Business Analytics**
+[Spring 2018]
 <br><br><br>
 
 **Instructor@University of Illinois**  
