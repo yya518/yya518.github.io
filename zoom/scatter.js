@@ -140,7 +140,7 @@ d3.csv("fb.csv", function(error, data) {
                     return d.x;  // Returns scaled location of x
                 })
                 .attr("y", function(d) {
-                    return d.y;  // Returns scaled circle y
+                   return d.y;  // Returns scaled circle y
                 })
                 .attr("transform", transform)
                 .attr("font_family", "sans-serif")  // Font type
