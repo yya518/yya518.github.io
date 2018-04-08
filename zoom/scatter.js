@@ -54,13 +54,13 @@ d3.csv("fb.csv", function(error, data) {
 
   var color = d3.scale.category10();
 
-/*  var tip = d3.tip()
+  var tip = d3.tip()
       .attr("class", "d3-tip")
       .offset([-10, 0])
       .html(function(d) {
         return "<b>" + d["brand"]  + "<b/>";
       });
-*/
+
   var zoomBeh = d3.behavior.zoom()
       .x(x)
       .y(y)
@@ -75,7 +75,7 @@ d3.csv("fb.csv", function(error, data) {
       .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
       .call(zoomBeh);
 
- // svg.call(tip);
+  svg.call(tip);
 
   svg.append("rect")
       .attr("width", width)
@@ -126,13 +126,14 @@ d3.csv("fb.csv", function(error, data) {
       .classed("dot", true)
       .attr("r", 5)
       .attr("transform", transform)
-      .style("fill", "#58ACFA");
-
-
+      .style("fill", "#58ACFA")
+      .on("mouseover", tip.show)
+      .on("mouseout", tip.hide);
+/*
   svg.selectAll("text")
       .data(data)
       .enter()
-      .append("text")
+     .append("text")
                 .text(function(d) {
                     return d["brand"];
                 })
@@ -145,10 +146,10 @@ d3.csv("fb.csv", function(error, data) {
                 .attr("transform", transform)
                 .attr("font_family", "sans-serif")  // Font type
                 .attr("font-size", "9px")  // Font size
-                .attr("fill", "black");   // Font color
-                
-      //.on("mouseover", tip.show)
-      //.on("mouseout", tip.hide);
+                .attr("fill", "black");   // Font color     
+*/
+//      .on("mouseover", tip.show)
+//      .on("mouseout", tip.hide);
 
 /*
   d3.select("input").on("click", change);
