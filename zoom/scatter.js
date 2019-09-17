@@ -120,7 +120,7 @@ d3.csv("fb.csv", function(error, data) {
       .attr("y2", height);
 
 
-  objects.selectAll(".dot")
+  /*objects.selectAll(".dot")
       .data(data)
       .enter().append("circle")
       .classed("dot", true)
@@ -128,8 +128,8 @@ d3.csv("fb.csv", function(error, data) {
       .attr("transform", transform)
       .style("fill", "#58ACFA")
       .on("mouseover", tip.show)
-      .on("mouseout", tip.hide);
-/*
+      .on("mouseout", tip.hide);*/
+
   svg.selectAll("text")
       .data(data)
       .enter()
@@ -147,7 +147,7 @@ d3.csv("fb.csv", function(error, data) {
                 .attr("font_family", "sans-serif")  // Font type
                 .attr("font-size", "9px")  // Font size
                 .attr("fill", "black");   // Font color     
-*/
+
 //      .on("mouseover", tip.show)
 //      .on("mouseout", tip.hide);
 

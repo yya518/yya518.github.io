@@ -7,6 +7,9 @@ title: publications
 
 * * * 
 <br>
+<b>What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues.</b> <br>
+Qin, Yu, and <u>Yi Yang</u>.  Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019.<br><br>
+
 <b>Improving Topic Model Stability for Effective Document Exploration.</b><br>
 <u>Yi Yang</u>, Shimei Pan, Yangqiu Song, Jie Lu, Mercan Topkara.  <br>International Joint Conference on Artificial Intelligence (IJCAI), 2016.<br><br>
 
