@@ -7,6 +7,9 @@ title: publications
 
 * * * 
 <br>
+<b>Neural Topic Model with Attention for Supervised Learning.</b> <br>
+Xinyi Wang, and <u>Yi Yang</u>.  Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics (AISTATS), 2020, to appear.<br><br>
+
 <b>What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues.</b> <br>
 Yu Qin, and <u>Yi Yang</u>.  Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019.<br><br>
 
@@ -14,16 +17,14 @@ Yu Qin, and <u>Yi Yang</u>.  Proceedings of the 57th Annual Meeting of the Assoc
 Fan Zhou, Bangying Wu, <u>Yi Yang</u>, Goce Trajcevski, Kunpeng Zhang, and Ting Zhong. Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM). ACM, 2018.<br><br>
 
 <b>Improving Topic Model Stability for Effective Document Exploration.</b><br>
-<u>Yi Yang</u>, Shimei Pan, Yangqiu Song, Jie Lu, Mercan Topkara.  <br>International Joint Conference on Artificial Intelligence (IJCAI), 2016.<br><br>
+<u>Yi Yang</u>, Shimei Pan, Yangqiu Song, Jie Lu, Mercan Topkara.  <br>Proceedings of 25th International Joint Conference on Artificial Intelligence (IJCAI), 2016.<br><br>
 
 <b>The Stability and Usability of Statistical Topic Models.</b><br>
 <u>Yi Yang</u>, Shimei Pan, Jie Lu, Mercan Topkara and Yangqiu Song.  <br>
 ACM Transactions on Interactive Intelligent Systems (TiiS), 2016.<br><br>
 
 <b>Efficient Algorithm for Incorporating Knowledge into Topic Models. </b><br>
-<u>Yi Yang</u>, Doug Downey, Jordan Boyd-Graber. <br>
-	Conference on Empirical Methods in Natural Language Processing. EMNLP, 2015. 
-	<br><br>
+<u>Yi Yang</u>, Doug Downey, Jordan Boyd-Graber. <br>	Conference on Empirical Methods in Natural Language Processing. EMNLP, 2015. <br><br>
 	
 
 <b> A Latent Variable Document Model for Large Topic Hierarchies.</b> <br>
