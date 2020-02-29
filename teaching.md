@@ -13,10 +13,12 @@ title: teaching
 
 + ISOM3370 (Undergraduate): Big Data Technologies. [Spring 2019]
 
-+ ISOM5270 (MBA): Big Data Analytics. [Spring 2019]
++ ISOM5270 (MBA Full-time): Big Data Analytics. [Spring 2019, Spring 2020]
+
++ ISOM5270 (MBA for Professionals Part-time): Big Data Analytics. [Spring 2020]
 <br>
 
-&#9733;I was nominated by School for **The Franklin Prize for Teaching Excellence** for Year 2018.
+&#9733;I am nominated by School for **The Franklin Prize for Teaching Excellence** for Year 2018.
 <br><br><br>
 
 
