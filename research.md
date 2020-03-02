@@ -11,13 +11,13 @@ title: research
 
 + <b> Identifying Market Structure: A Deep Network Representation Learning of Social Engagement. </b> <br>
 With Kunpeng Zhang and P.K. Kannan<br>
-under major revision at Journal of Marketing.<br>
+under major revision. <br> 
    + Invited for presentation at Frank M. Bass FORMS Conference, UT Dallas, 2020<br><br>
 
 
 + <b> Analyzing Firm Reports for Volatility Prediction: A Knowledge-driven Machine Learning Approach. </b> <br>
 With Kunpeng Zhang and Yangyang Fan<br>
-under second round review at INFORMS Journal on Computing.<br><br>
+under second round review.<br><br>
 
 
 <b> <u>Publications: </u> </b>
