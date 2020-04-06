@@ -10,17 +10,25 @@ title: research
 <b> <u> Papers Under Review: </u></b> 
 
 + <b> Identifying Market Structure: A Deep Network Representation Learning of Social Engagement. </b> <br>
-With Kunpeng Zhang and P.K. Kannan<br>
+ With Kunpeng Zhang and P.K. Kannan<br> 
 under major revision. <br> 
    + Invited for presentation at Frank M. Bass FORMS Conference, UT Dallas, 2020<br><br>
 
 
 + <b> Analyzing Firm Reports for Volatility Prediction: A Knowledge-driven Machine Learning Approach. </b> <br>
-With Kunpeng Zhang and Yangyang Fan<br>
+ With Kunpeng Zhang and Yangyang Fan<br> 
 under second round review.<br><br>
 
 
 <b> <u>Publications: </u> </b>
+
++ <b> Interpreting Twitter User Geolocation </b> <br>
+Ting Zhong, Tianliang Wang, Fan Zhou, Goce Trajcevski, Kunpeng Zhang and <u>Yi Yang</u> <br>
+Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL), 2020, to appear.<br>
+
++ <b> Interpretable Operational Risk Classification with Semi-supervised Variational Autoencoder </b> <br>
+Fan Zhou, Shengming Zhang and <u> Yi Yang </u> <br>
+Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL), 2020, to appear.<br>
 
 + <b>Unifying Online and Offline Preference for Social Link Prediction.</b> <br>
 Fan Zhou, Bangying Wu, Kunpeng Zhang, <u>Yi Yang</u>, and Harry Wang. <br> 
@@ -70,18 +78,19 @@ Association for Computational Linguistics. ACL, 2015. <br>
 Hongyu Gao, <u>Yi Yang</u>, Kai Bu, Yan Chen, Doug Downey, Kathy Lee and Alok Choudhary. <br>
 2014 Annual Computer Security Applications Conference. ACSAC, 2014. <br>
 
-+ <b>Active Learning with Constrained Topic Model.</b><a href="http://nlp.stanford.edu/events/illvi2014/papers/yang-illvi2014.pdf"> [pdf]</a> <br>
+<!--+ <b>Active Learning with Constrained Topic Model.</b><a href="http://nlp.stanford.edu/events/illvi2014/papers/yang-illvi2014.pdf"> [pdf]</a> <br>
 <u>Yi Yang</u>, Shimei Pan, Doug Downey and Kunpeng Zhang. <br>
 Workshop on Interactive Language Learning, Visualization, and Interfaces. ACL, 2014.<br>
 
-+ <b>A Systematic Framework for Sentiment Identification by Modeling User Social Effects.</b>
+<!-- + <b>A Systematic Framework for Sentiment Identification by Modeling User Social Effects.</b>
 	<a href="http://kzhang6.people.uic.edu/paper/WIC2014.pdf"> [pdf]</a> <br>
 Kunpeng Zhang,  <u>Yi Yang</u>, Aaron Sun, Hengchang Liu. <br>
 The 2014 IEEE/WIC/ACM International Conference on Web Intelligence (WI'14), Warsaw, Poland. 2014.<br>
-
 + <b>Incorporating Conditional Random Fields and Active Learning to Improve Sentiment Identification.</b>
 <a href="http://www.sciencedirect.com/science/article/pii/S0893608014000896"> [pdf]</a> <br>
-Kunpeng Zhang, Yusheng Xie, <u>Yi Yang</u>, Aaron Sun, Hengchang Liu, Alok Choudhary. <br>
+
+
+Zhang, Yusheng Xie, <u>Yi Yang</u>, Aaron Sun, Hengchang Liu, Alok Choudhary. <br>
 Neural Networks, 2014.<br>
 
 + <b>Learning Representations for Weakly Supervised Natural Language Processing Tasks.</b>
