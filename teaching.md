@@ -9,9 +9,9 @@ title: teaching
 <br>
 **Instructor@Hong Kong University of Science and Technology** 
 
-+ ISOM3360 (Undergraduate): Data Mining for Business Analytics. [Spring 2018, Spring 2019] 
++ ISOM3360 (Undergraduate): Data Mining for Business Analytics. [Spring 2018, Spring 2019, Spring 2020] 
 
-+ ISOM3370 (Undergraduate): Big Data Technologies. [Spring 2019]
++ ISOM3370 (Undergraduate): Big Data Technologies. [Spring 2019, Spring 2020]
 
 + ISOM5270 (MBA Full-time): Big Data Analytics. [Spring 2019, Spring 2020]
 
