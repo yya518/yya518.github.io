@@ -34,5 +34,5 @@ Topics covered in this course include:
 
 **Guest Speakers:**
 
-* Spring 2015: FTI Consulting, Financial  Enterprise Data Analytics team.
+* Spring 2016: FTI Consulting, Financial  Enterprise Data Analytics team.
 * Fall 2016, Spring 2017: Shaun Thomas, author of *PostgreSQL High Availability Cookbook*.
