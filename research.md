@@ -78,18 +78,17 @@ Association for Computational Linguistics. ACL, 2015. <br>
 Hongyu Gao, <u>Yi Yang</u>, Kai Bu, Yan Chen, Doug Downey, Kathy Lee and Alok Choudhary. <br>
 2014 Annual Computer Security Applications Conference. ACSAC, 2014. <br>
 
-<!--+ <b>Active Learning with Constrained Topic Model.</b><a href="http://nlp.stanford.edu/events/illvi2014/papers/yang-illvi2014.pdf"> [pdf]</a> <br>
++ <b>Active Learning with Constrained Topic Model.</b><a href="http://nlp.stanford.edu/events/illvi2014/papers/yang-illvi2014.pdf"> [pdf]</a> <br>
 <u>Yi Yang</u>, Shimei Pan, Doug Downey and Kunpeng Zhang. <br>
 Workshop on Interactive Language Learning, Visualization, and Interfaces. ACL, 2014.<br>
 
-<!-- + <b>A Systematic Framework for Sentiment Identification by Modeling User Social Effects.</b>
++ <b>A Systematic Framework for Sentiment Identification by Modeling User Social Effects.</b>
 	<a href="http://kzhang6.people.uic.edu/paper/WIC2014.pdf"> [pdf]</a> <br>
 Kunpeng Zhang,  <u>Yi Yang</u>, Aaron Sun, Hengchang Liu. <br>
 The 2014 IEEE/WIC/ACM International Conference on Web Intelligence (WI'14), Warsaw, Poland. 2014.<br>
+
 + <b>Incorporating Conditional Random Fields and Active Learning to Improve Sentiment Identification.</b>
 <a href="http://www.sciencedirect.com/science/article/pii/S0893608014000896"> [pdf]</a> <br>
-
-
 Zhang, Yusheng Xie, <u>Yi Yang</u>, Aaron Sun, Hengchang Liu, Alok Choudhary. <br>
 Neural Networks, 2014.<br>
 
