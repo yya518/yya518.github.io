@@ -24,11 +24,11 @@ under second round review.<br><br>
 
 + <b> Interpreting Twitter User Geolocation </b> <br>
 Ting Zhong, Tianliang Wang, Fan Zhou, Goce Trajcevski, Kunpeng Zhang and <u>Yi Yang</u> <br>
-Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL), 2020, to appear.<br>
+Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL), to appear.<br>
 
 + <b> Interpretable Operational Risk Classification with Semi-supervised Variational Autoencoder </b> <br>
 Fan Zhou, Shengming Zhang and <u> Yi Yang </u> <br>
-Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL), 2020, to appear.<br>
+Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL), to appear.<br>
 
 + <b>Unifying Online and Offline Preference for Social Link Prediction.</b> <br>
 Fan Zhou, Bangying Wu, Kunpeng Zhang, <u>Yi Yang</u>, and Harry Wang. <br> 
