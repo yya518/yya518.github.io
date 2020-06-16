@@ -22,13 +22,17 @@ under second round review.<br><br>
 
 <b> <u>Publications: </u> </b>
 
++ <b> FinBERT: A Pretrained Language Model for Financial Communications </b> <a href="https://arxiv.org/abs/2006.08097">[Arxiv] </a><a href="https://github.com/yya518/FinBERT"> [code]</a>  <br>
+<u>Yi Yang</u>, Mark Christopher Siy UY, Allen Huang <br>
+<br>
+
 + <b> Interpreting Twitter User Geolocation </b> <br>
 Ting Zhong, Tianliang Wang, Fan Zhou, Goce Trajcevski, Kunpeng Zhang and <u>Yi Yang</u> <br>
-Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL), to appear.<br>
+Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL), 2020.<br>
 
 + <b> Interpretable Operational Risk Classification with Semi-supervised Variational Autoencoder </b> <br>
 Fan Zhou, Shengming Zhang and <u> Yi Yang </u> <br>
-Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL), to appear.<br>
+Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL), 2020.<br>
 
 + <b>Unifying Online and Offline Preference for Social Link Prediction.</b> <br>
 Fan Zhou, Bangying Wu, Kunpeng Zhang, <u>Yi Yang</u>, and Harry Wang. <br> 
