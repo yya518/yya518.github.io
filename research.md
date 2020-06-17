@@ -34,7 +34,7 @@ Proceedings of the 58th Annual Meeting of the Association for Computational Ling
 Fan Zhou, Shengming Zhang and <u> Yi Yang </u> <br>
 Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL), 2020.<br>
 
-+ <b>Unifying Online and Offline Preference for Social Link Prediction.</b> <br>
++ <b>Unifying Online and Offline Preference for Social Link Prediction.</b> <a href="https://github.com/kpzhang/vec2link"> [code]</a> <br>
 Fan Zhou, Bangying Wu, Kunpeng Zhang, <u>Yi Yang</u>, and Harry Wang. <br> 
 Forthcoming at INFORMS Journal on Computing.<br>
 
