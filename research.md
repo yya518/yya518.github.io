@@ -38,7 +38,7 @@ Proceedings of the 58th Annual Meeting of the Association for Computational Ling
 Fan Zhou, Bangying Wu, Kunpeng Zhang, <u>Yi Yang</u>, and Harry Wang. <br> 
 Forthcoming at INFORMS Journal on Computing.<br>
 
-+ <b>Neural Topic Model with Attention for Supervised Learning.</b> <br>
++ <b>Neural Topic Model with Attention for Supervised Learning.</b> <a href="http://proceedings.mlr.press/v108/wang20c.html">[Paper] </a><a href="https://github.com/WANGXinyiLinda/Neural-Topic-Model-with-Attention-for-Supervised-Learning"> [code]</a>  <br>
 Xinyi Wang, and <u>Yi Yang</u>.  <br>
 Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics (AISTATS), 2020.<br>
 
