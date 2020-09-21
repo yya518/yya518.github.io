@@ -15,12 +15,13 @@ under major revision. <br>
    + Invited for presentation at Frank M. Bass FORMS Conference, UT Dallas, 2020<br><br>
 
 
-+ <b> Analyzing Firm Reports for Volatility Prediction: A Knowledge-driven Machine Learning Approach. </b> <br>
- With Kunpeng Zhang and Yangyang Fan<br> 
-under second round review.<br><br>
+
 
 
 <b> <u>Publications: </u> </b>
++ <b> Analyzing Firm Reports for Volatility Prediction: A Knowledge-driven Machine Learning Approach. </b> <br>
+ Yi Yang, Kunpeng Zhang and Yangyang Fan<br> 
+INFORMS Journal on Computing. Accepted<br>
 
 + <b> FinBERT: A Pretrained Language Model for Financial Communications </b> <a href="https://arxiv.org/abs/2006.08097">[Arxiv] </a><a href="https://github.com/yya518/FinBERT"> [code]</a>  <br>
 <u>Yi Yang</u>, Mark Christopher Siy UY, Allen Huang <br>
@@ -62,7 +63,7 @@ ACM Transactions on Interactive Intelligent Systems (TiiS), 2016.<br>
 Conference on Empirical Methods in Natural Language Processing. EMNLP, 2015. <br>
 	
 
-+ <b> A Latent Variable Document Model for Large Topic Hierarchies.</b> <br>
++ <b> Efficient Methods for Inferring Large Sparse Topic Hierarchies</b> <br>
 Doug Downey, Chandra Sekhar Bhagavatula, <u>Yi Yang</u>. <br>
 Association for Computational Linguistics. ACL, 2015. <br>
 
