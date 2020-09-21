@@ -20,12 +20,11 @@ under major revision. <br>
 
 <b> <u>Publications: </u> </b>
 + <b> Analyzing Firm Reports for Volatility Prediction: A Knowledge-driven Machine Learning Approach. </b> <br>
- Yi Yang, Kunpeng Zhang and Yangyang Fan<br> 
+ <u>Yi Yang</u>, Kunpeng Zhang and Yangyang Fan<br> 
 INFORMS Journal on Computing. Accepted<br>
 
 + <b> FinBERT: A Pretrained Language Model for Financial Communications </b> <a href="https://arxiv.org/abs/2006.08097">[Arxiv] </a><a href="https://github.com/yya518/FinBERT"> [code]</a>  <br>
 <u>Yi Yang</u>, Mark Christopher Siy UY, Allen Huang <br>
-<br>
 
 + <b> Interpreting Twitter User Geolocation </b> <br>
 Ting Zhong, Tianliang Wang, Fan Zhou, Goce Trajcevski, Kunpeng Zhang and <u>Yi Yang</u> <br>
