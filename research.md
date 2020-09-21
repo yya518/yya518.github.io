@@ -12,7 +12,7 @@ title: research
 + <b> Identifying Market Structure: A Deep Network Representation Learning of Social Engagement. </b> <br>
  With Kunpeng Zhang and P.K. Kannan<br> 
 under major revision. <br> 
-   + Invited for presentation at Frank M. Bass FORMS Conference, UT Dallas, 2020<br>
+   + Invited for presentation at Frank M. Bass FORMS Conference, UT Dallas, 2020<br><br>
 
 + <b> sDTM: A Supervised Bayesian Deep Topic Model for Text Analytics. </b> <br>
  With Kunpeng Zhang <br> 
