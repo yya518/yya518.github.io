@@ -6,6 +6,11 @@ title: research
 ## Yi Yang | Research
 
 * * * 
+<br>
+<b> <u> Papers Under Revision: </u></b> 
++ <b> Identifying Market Structure: A Deep Network Representation Learning of Social Engagement. </b> <br>
+ With Kunpeng Zhang and P.K. Kannan<br> 
+under major revision. <br> 
 
 <b> <u>Publications: </u> </b>
 + <b> Analyzing Firm Reports for Volatility Prediction: A Knowledge-driven Machine Learning Approach. </b> <br>
