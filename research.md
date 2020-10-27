@@ -13,6 +13,11 @@ title: research
 under major revision. <br> 
 
 <b> <u>Publications: </u> </b>
+
++ <b> Generating Plausible Counterfactual Explanations for Deep Transformers in Financial Text Classification </b> <br>
+Linyi Yang, Eoin Kenny, Tin Lok James Ng, <u>Yi Yang</u>, Barry Smyth and Ruihai Dong <br>
+The 28th International Conference on Computational Linguistics (COLING), 2020. <br>
+
 + <b> Analyzing Firm Reports for Volatility Prediction: A Knowledge-driven Machine Learning Approach. </b> <br>
  <u>Yi Yang</u>, Kunpeng Zhang and Yangyang Fan<br> 
 INFORMS Journal on Computing. Accepted<br>
