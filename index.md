@@ -4,7 +4,7 @@ layout: default
 
 ## Yi Yang
 <br>
-I am an assistant professor of the department of [Information Systems, Business Statistics and Operations Management](http://www.bm.ust.hk/isom/index.html), School of Business and Management, at the [Hong Kong University of Science and Technology (HKUST)](http://www.ust.hk/). I joined the department in July 2017. Prior to that, I was a post-doc researcher at University of Illinois at Urbana-Champaign. <br>
+I am an assistant professor of the department of [Information Systems, Business Statistics and Operations Management](http://www.bm.ust.hk/isom/index.html), School of Business and Management, at the [Hong Kong University of Science and Technology (HKUST)](http://www.ust.hk/). I joined the department in July 2017. Prior to that, I was a post-doc at University of Illinois at Urbana-Champaign. <br>
 <!--My research question is: how can firm/organization make better decision with machine learning and big data? -->
 
 My research interests are scalable machine learning, statistical inference, and its applications in management science. <br>

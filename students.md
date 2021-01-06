@@ -27,6 +27,6 @@ title: research
 **Past Students** 
 + Xinyi Wang (UG Student, HKUST Math -> UCSB, CS PhD)
 
-+ Yu Qin (UG Intern, Renmin University of China -> University Of Utah, ISOM, PhD)
++ Yu Qin (UG Intern, Renmin University of China -> University Of Utah, ISOM PhD)
 
-+ Siddhartha Datta (UG Student, HKUST Business -> Oxford, CS PhD @)
++ Siddhartha Datta (UG Student, HKUST Business -> Oxford, CS PhD)
