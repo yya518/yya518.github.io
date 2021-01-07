@@ -20,7 +20,7 @@ title: research
 
 + Tianle Li (UG student, HKUST CSE, Since 2019 Summer)
 
-+ Monique Tung Kong (UG student, HKUST Business, Since 2019 Summer)
++ Monique Tung Kong (UG student, HKUST Business, Since 2020 Summer)
 
 + Hanyu Duan (MSc student, HKUST Physics, Since 2020 Fall)
 
