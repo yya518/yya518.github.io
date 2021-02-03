@@ -10,7 +10,7 @@ title: research
 <b> <u> Papers Under Revision: </u></b> 
 + <b> Identifying Market Structure: A Deep Network Representation Learning of Social Engagement. </b> <br>
  With Kunpeng Zhang and P.K. Kannan<br> 
-under major revision. <br> 
+<br> 
 
 <b> <u>Publications: </u> </b>
 
@@ -18,7 +18,7 @@ under major revision. <br>
 Linyi Yang, Eoin Kenny, Tin Lok James Ng, <u>Yi Yang</u>, Barry Smyth and Ruihai Dong <br>
 The 28th International Conference on Computational Linguistics (COLING), 2020. <br>
 
-+ <b> Analyzing Firm Reports for Volatility Prediction: A Knowledge-driven Machine Learning Approach. </b> <br>
++ <b> Analyzing Firm Reports for Volatility Prediction: A Knowledge-driven Text Embedding Approach. </b> <br>
  <u>Yi Yang</u>, Kunpeng Zhang and Yangyang Fan<br> 
 INFORMS Journal on Computing. Accepted<br>
 

@@ -15,6 +15,9 @@ I obtained Ph.D. degree in Computer Science at Northwestern University in 2015, 
 
 I also worked as intern at IBM T.J.Watson Research and Amazon AWS. <br>
 
+I am consulting for a leading hedge fund firm on financial NLP topics.<br>
+
+
 <!--I jog and cycle.-->
 
 
