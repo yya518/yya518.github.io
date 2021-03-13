@@ -18,7 +18,7 @@ Yi Yang, Kunpeng Zhang and P.K. Kannan <br>
 Yi Yang, Kunpeng Zhang and Yangyang Fan<br> 
 <i> INFORMS Journal on Computing</i>. Accept.<br>
 
-+ Unifying Online and Offline Preference for Social Link Prediction. <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2020.0989">[Paper]  <br>
++ Unifying Online and Offline Preference for Social Link Prediction. <a href="https://pubsonline.informs.org/doi/10.1287/ijoc.2020.0989">[Paper] </a> <br>
 Fan Zhou, Bangying Wu, Kunpeng Zhang, Yi Yang, and Harry Wang <br> 
 <i>INFORMS Journal on Computing</i>. Forthcoming.<br>
 
