@@ -13,11 +13,11 @@ title: research
 
 + Identifying Market Structure: A Deep Network Representation Learning of Social Engagement. <br>
 <u>Yi Yang </u>, Kunpeng Zhang and P.K. Kannan <br>
-<b> Journal of Marketing</b>. Conditional Accept.<br>
+<i> Journal of Marketing</i>. Conditional Accept.<br>
 
-+ <b> Analyzing Firm Reports for Volatility Prediction: A Knowledge-driven Text Embedding Approach. </b> <br>
++ Analyzing Firm Reports for Volatility Prediction: A Knowledge-driven Text Embedding Approach. <br>
  <u>Yi Yang</u>, Kunpeng Zhang and Yangyang Fan<br> 
-INFORMS Journal on Computing. Accepted.<br>
+<b> INFORMS Journal on Computing</b> . Accepted.<br>
 
 + <b>Unifying Online and Offline Preference for Social Link Prediction.</b>  <br>
 Fan Zhou, Bangying Wu, Kunpeng Zhang, <u>Yi Yang</u>, and Harry Wang. <br> 
