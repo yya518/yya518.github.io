@@ -7,7 +7,7 @@ title: research
 
 * * * 
 
-My research on business analytics and NLP are published in business discipline journals and major NLP/AI conferences.
+My research on business analytics and NLP are published in major business-discipline journals and major NLP/AI conferences and journals.
 <br>
 
 <b> Business-discipline Journals: </b> <br>
@@ -20,11 +20,11 @@ Journal of Marketing. Conditional Accept.<br>
  <u>Yi Yang</u>, Kunpeng Zhang and Yangyang Fan<br> 
 INFORMS Journal on Computing. Accepted.<br>
 
-+ <b>Unifying Online and Offline Preference for Social Link Prediction.</b> <a href="https://github.com/kpzhang/vec2link"> [code]</a> <br>
++ <b>Unifying Online and Offline Preference for Social Link Prediction.</b>  <br>
 Fan Zhou, Bangying Wu, Kunpeng Zhang, <u>Yi Yang</u>, and Harry Wang. <br> 
 INFORMS Journal on Computing. Forthcoming.<br>
 
-<b> <u>NLP/AI Conferences and Journals: </u> </b>
+<b> NLP/AI Conferences and Journals: </b>
 
 + <b> Generating Plausible Counterfactual Explanations for Deep Transformers in Financial Text Classification </b> <br>
 Linyi Yang, Eoin Kenny, Tin Lok James Ng, <u>Yi Yang</u>, Barry Smyth and Ruihai Dong <br>
