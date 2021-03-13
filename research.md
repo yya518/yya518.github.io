@@ -6,21 +6,27 @@ title: research
 ## Yi Yang | Research
 
 * * * 
+
+My research on business analytics and NLP are published in business discipline journals and major NLP/AI conferences.
 <br>
-<b> <u> Papers Under Revision: </u></b> 
-+ <b> Identifying Market Structure: A Deep Network Representation Learning of Social Engagement. </b> <br>
- With Kunpeng Zhang and P.K. Kannan<br> 
-<br> 
 
-<b> <u>Publications: </u> </b>
-
-+ <b> Generating Plausible Counterfactual Explanations for Deep Transformers in Financial Text Classification </b> <br>
-Linyi Yang, Eoin Kenny, Tin Lok James Ng, <u>Yi Yang</u>, Barry Smyth and Ruihai Dong <br>
-The 28th International Conference on Computational Linguistics (COLING), 2020. <br>
++ <b> <u> Business-discipline Journals: </u></b> 
+<b> Identifying Market Structure: A Deep Network Representation Learning of Social Engagement. </b> <br>
+<u>Yi Yang</u>, Kunpeng Zhang and P.K. Kannan <br>
 
 + <b> Analyzing Firm Reports for Volatility Prediction: A Knowledge-driven Text Embedding Approach. </b> <br>
  <u>Yi Yang</u>, Kunpeng Zhang and Yangyang Fan<br> 
 INFORMS Journal on Computing. Accepted<br>
+
++ <b>Unifying Online and Offline Preference for Social Link Prediction.</b> <a href="https://github.com/kpzhang/vec2link"> [code]</a> <br>
+Fan Zhou, Bangying Wu, Kunpeng Zhang, <u>Yi Yang</u>, and Harry Wang. <br> 
+Forthcoming at INFORMS Journal on Computing.<br>
+
+<b> <u>NLP/AI Conferences and Journals: </u> </b>
+
++ <b> Generating Plausible Counterfactual Explanations for Deep Transformers in Financial Text Classification </b> <br>
+Linyi Yang, Eoin Kenny, Tin Lok James Ng, <u>Yi Yang</u>, Barry Smyth and Ruihai Dong <br>
+The 28th International Conference on Computational Linguistics (COLING), 2020. <br>
 
 + <b> FinBERT: A Pretrained Language Model for Financial Communications </b> <a href="https://arxiv.org/abs/2006.08097">[Arxiv] </a><a href="https://github.com/yya518/FinBERT"> [code]</a>  <br>
 <u>Yi Yang</u>, Mark Christopher Siy UY, Allen Huang <br>
@@ -32,10 +38,6 @@ Proceedings of the 58th Annual Meeting of the Association for Computational Ling
 + <b> Interpretable Operational Risk Classification with Semi-supervised Variational Autoencoder </b> <br>
 Fan Zhou, Shengming Zhang and <u> Yi Yang </u> <br>
 Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL), 2020.<br>
-
-+ <b>Unifying Online and Offline Preference for Social Link Prediction.</b> <a href="https://github.com/kpzhang/vec2link"> [code]</a> <br>
-Fan Zhou, Bangying Wu, Kunpeng Zhang, <u>Yi Yang</u>, and Harry Wang. <br> 
-Forthcoming at INFORMS Journal on Computing.<br>
 
 + <b>Neural Topic Model with Attention for Supervised Learning.</b> <a href="http://proceedings.mlr.press/v108/wang20c.html">[Paper] </a><a href="https://github.com/WANGXinyiLinda/Neural-Topic-Model-with-Attention-for-Supervised-Learning"> [code]</a>  <br>
 Xinyi Wang, and <u>Yi Yang</u>.  <br>
