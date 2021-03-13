@@ -23,7 +23,7 @@ var xCat = "Calories",
     colorCat = "Manufacturer";
 */
 
-d3.csv("fb.csv", function(error, data) {
+d3.csv("fb_old.csv", function(error, data) {
 
   // change string (from CSV) into number format
   data.forEach(function(d) {
