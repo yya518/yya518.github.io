@@ -59,12 +59,16 @@ Fan Zhou, Bangying Wu,  Yi Yang, Goce Trajcevski, Kunpeng Zhang, and Ting Zhong.
  Yi Yang, Shimei Pan, Jie Lu, Mercan Topkara and Yangqiu Song.  <br>
 *ACM Transactions on Interactive Intelligent Systems (TiiS)*. 2016.<br>
 
-+  Efficient Algorithm for Incorporating Knowledge into Topic Models.  <br>
++ Beating the artificial chaos: Fighting OSN spam using its own templates <br>
+Tiantian Zhu, Hongyu Gao, Yi Yang, Kai Bu, Yan Chen, Doug Downey, Kathy Lee and Alok Choudhary. <br>
+*IEEE/ACM Transactions on Networking*. 2016 <br>
+
+
++ Efficient Algorithm for Incorporating Knowledge into Topic Models.  <br>
  Yi Yang, Doug Downey, Jordan Boyd-Graber. <br>	
 *Conference on Empirical Methods in Natural Language Processing (EMNLP)*. 2015. <br>
-	
 
-+   Efficient Methods for Inferring Large Sparse Topic Hierarchies  <br>
++ Efficient Methods for Inferring Large Sparse Topic Hierarchies  <br>
 Doug Downey, Chandra Sekhar Bhagavatula,  Yi Yang. <br>
 *Annual Meeting of the Association for Computational Linguistics (ACL)*. 2015. <br>
 
@@ -72,13 +76,12 @@ Doug Downey, Chandra Sekhar Bhagavatula,  Yi Yang. <br>
     <a href="http://www.cs.northwestern.edu/~yya518/paper/IUI_15.pdf">[pdf]</a><br>
      Yi Yang, Shimei Pan, Yangqiu Song, Jie Lu, and Mercan Topkara.<br>
     *International Conference on Intelligent User Interfaces (IUI)*. 2015. <br>
-    <span class="award">Honorable Mention</span>
+    &#9733;Honorable Mention Award.
 <br>
 
 +  Incorporating User Input with Topic Modeling.  <a href="http://www.cs.northwestern.edu/~yya518/paper/imbig15.pdf">[pdf]</a><br>
-	 Yi Yang, Shimei Pan, Jie Lu, Mercan Topkara, and Doug Downey. <br>
-	*Workshop on Interactive Mining for Big Data*. 2014. 
-<br>
+Yi Yang, Shimei Pan, Jie Lu, Mercan Topkara, and Doug Downey. <br>
+*Workshop on Interactive Mining for Big Data*. 2014. <br>
 
 +  Spam ain’t as Diverse as It Seems: Throttling OSN Spam with Templates Underneath. <a href="http://www.cs.northwestern.edu/~yya518/paper/Tangram.pdf"> [pdf]</a> <br>
 Hongyu Gao,  Yi Yang, Kai Bu, Yan Chen, Doug Downey, Kathy Lee and Alok Choudhary. <br>
