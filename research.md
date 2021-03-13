@@ -7,14 +7,14 @@ title: research
 
 * * * 
 
-My research on business analytics and NLP are published in major business-discipline journals and major NLP/AI conferences and journals.
+#### My research on business analytics and NLP are published in major business-discipline journals and major NLP/AI conferences and journals.
 <br>
 
 <b> Business-discipline Journals: </b> <br>
 
-+ <b> Identifying Market Structure: A Deep Network Representation Learning of Social Engagement. </b> <br>
++ Identifying Market Structure: A Deep Network Representation Learning of Social Engagement. <br>
 <u>Yi Yang </u>, Kunpeng Zhang and P.K. Kannan <br>
-Journal of Marketing. Conditional Accept.<br>
+<b> Journal of Marketing</b>. Conditional Accept.<br>
 
 + <b> Analyzing Firm Reports for Volatility Prediction: A Knowledge-driven Text Embedding Approach. </b> <br>
  <u>Yi Yang</u>, Kunpeng Zhang and Yangyang Fan<br> 
