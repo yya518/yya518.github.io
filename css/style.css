@@ -46,19 +46,19 @@ a small {
 
 
 .wrapper {
-  width:960px;
+  width:1020px;
   margin:0 auto;
 }
 
 header {
-  width:270px;
+  width:170px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
 section {
-  width:800px;
+  width:880px;
   float:right;
   padding-bottom:50px;
 }
@@ -68,7 +68,7 @@ small {
 }
 
 footer {
-  width:270px;
+  width:170px;
   float:left;
   position:fixed;
   bottom:50px;
