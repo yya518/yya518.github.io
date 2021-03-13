@@ -12,16 +12,16 @@ title: research
 <b> Business-discipline Journals: </b> <br>
 
 + Identifying Market Structure: A Deep Network Representation Learning of Social Engagement. <br>
-<u>Yi Yang </u>, Kunpeng Zhang and P.K. Kannan <br>
+Yi Yang, Kunpeng Zhang and P.K. Kannan <br>
 <i> Journal of Marketing</i>. Conditional Accept.<br>
 
 + Analyzing Firm Reports for Volatility Prediction: A Knowledge-driven Text Embedding Approach. <br>
- <u>Yi Yang</u>, Kunpeng Zhang and Yangyang Fan<br> 
-<b> INFORMS Journal on Computing</b> . Accepted.<br>
+Yi Yang, Kunpeng Zhang and Yangyang Fan<br> 
+<i> INFORMS Journal on Computing</i> . Accepted.<br>
 
-+ <b>Unifying Online and Offline Preference for Social Link Prediction.</b>  <br>
-Fan Zhou, Bangying Wu, Kunpeng Zhang, <u>Yi Yang</u>, and Harry Wang. <br> 
-INFORMS Journal on Computing. Forthcoming.<br>
++ Unifying Online and Offline Preference for Social Link Prediction.  <br>
+Fan Zhou, Bangying Wu, Kunpeng Zhang, Yi Yang, and Harry Wang. <br> 
+<i>INFORMS Journal on Computing</i>. Forthcoming.<br>
 
 <b> NLP/AI Conferences and Journals: </b>
 
