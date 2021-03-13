@@ -9,7 +9,7 @@ title: research
 
 <span style="font-size:24px;"> My research on business analytics and NLP are published in major business-discipline journals and major NLP/AI conferences and journals.</span>
 
-**Business-discipline Journals:**   <br>
+<span style="color:#39c;">**Business-discipline Journals:**  </span> <br>
 + Identifying Market Structure: A Deep Network Representation Learning of Social Engagement. <br>
 Yi Yang, Kunpeng Zhang and P.K. Kannan <br>
 ***Journal of Marketing***. Conditionally Accepted.<br>
@@ -22,7 +22,7 @@ Yi Yang, Kunpeng Zhang and YangYang Fan<br>
 Fan Zhou, Bangying Wu, Kunpeng Zhang, Yi Yang, and Harry Wang <br> 
 ***INFORMS Journal on Computing***. Forthcoming.<br><br>
 
-**NLP/AI Conferences and Journals:**  
+<span style="color:#39c;">**NLP/AI Conferences and Journals:**  </span>
 
 + Generating Plausible Counterfactual Explanations for Deep Transformers in Financial Text Classification <br>
 Linyi Yang, Eoin Kenny, Tin Lok James Ng,  Yi Yang, Barry Smyth and Ruihai Dong <br>
