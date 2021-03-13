@@ -10,18 +10,19 @@ title: research
 My research on business analytics and NLP are published in business discipline journals and major NLP/AI conferences.
 <br>
 
-+ <b> <u> Business-discipline Journals: </u></b> 
-<b> Identifying Market Structure: A Deep Network Representation Learning of Social Engagement. </b> <br>
-<u>Yi Yang</u>, Kunpeng Zhang and P.K. Kannan <br>
-Journal of Marketing. Conditional Accept<br>
+<b> Business-discipline Journals: </b> <br>
+
++ <b> Identifying Market Structure: A Deep Network Representation Learning of Social Engagement. </b> <br>
+<u>Yi Yang </u>, Kunpeng Zhang and P.K. Kannan <br>
+Journal of Marketing. Conditional Accept.<br>
 
 + <b> Analyzing Firm Reports for Volatility Prediction: A Knowledge-driven Text Embedding Approach. </b> <br>
  <u>Yi Yang</u>, Kunpeng Zhang and Yangyang Fan<br> 
-INFORMS Journal on Computing. Accepted<br>
+INFORMS Journal on Computing. Accepted.<br>
 
 + <b>Unifying Online and Offline Preference for Social Link Prediction.</b> <a href="https://github.com/kpzhang/vec2link"> [code]</a> <br>
 Fan Zhou, Bangying Wu, Kunpeng Zhang, <u>Yi Yang</u>, and Harry Wang. <br> 
-Forthcoming at INFORMS Journal on Computing.<br>
+INFORMS Journal on Computing. Forthcoming.<br>
 
 <b> <u>NLP/AI Conferences and Journals: </u> </b>
 
