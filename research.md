@@ -13,6 +13,7 @@ My research on business analytics and NLP are published in business discipline j
 + <b> <u> Business-discipline Journals: </u></b> 
 <b> Identifying Market Structure: A Deep Network Representation Learning of Social Engagement. </b> <br>
 <u>Yi Yang</u>, Kunpeng Zhang and P.K. Kannan <br>
+Journal of Marketing. Conditional Accept<br>
 
 + <b> Analyzing Firm Reports for Volatility Prediction: A Knowledge-driven Text Embedding Approach. </b> <br>
  <u>Yi Yang</u>, Kunpeng Zhang and Yangyang Fan<br> 
