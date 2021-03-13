@@ -154,10 +154,7 @@ header ul a:active {
   background-color:#f0f0f0;
 }
 
-strong {
-  color:#222;
-  font-weight:500;
-}
+
 
 header ul li + li + li {
   border-right:none;
