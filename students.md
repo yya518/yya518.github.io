@@ -16,13 +16,13 @@ title: research
 
 
 **RAs**
-+ Mark Christopher Siy UY (UG student, HKUST CSE, Since 2019 Summer)
-
-+ Tianle Li (UG student, HKUST CSE, Since 2019 Summer)
-
-+ Monique Tung Kong (UG student, HKUST Business, Since 2020 Summer)
-
 + Hanyu Duan (MSc student, HKUST Physics, Since 2020 Fall)
+
++ Mark Christopher Siy UY (UG student, HKUST CSE, 2019 Summer)
+
++ Tianle Li (UG student, HKUST CSE, 2019 Summer - 2020 Summer)
+
++ Monique Tung Kong (UG student, HKUST Business, 2020 Summer)
 
 **Past Students** 
 + Xinyi Wang (UG Student, HKUST Math -> UCSB, CS PhD)
