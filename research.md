@@ -24,6 +24,10 @@ Fan Zhou, Bangying Wu, Kunpeng Zhang, Yi Yang, and Harry Wang <br>
 
 <span style="color:#39c;">**NLP/AI Conferences and Journals:**  </span>
 
++ Rumor Detection on Social Media with Event Augmentations<br>
+Zhenyu He, Ce Li, Fan Zhou and Yi Yang <br>
+*International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)*. 2021. <br>
+
 + Generating Plausible Counterfactual Explanations for Deep Transformers in Financial Text Classification <br>
 Linyi Yang, Eoin Kenny, Tin Lok James Ng,  Yi Yang, Barry Smyth and Ruihai Dong <br>
 *International Conference on Computational Linguistics (COLING)*. 2020. <br>
