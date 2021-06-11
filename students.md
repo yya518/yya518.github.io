@@ -10,11 +10,11 @@ title: research
 **Current Students** 
 + Yingpeng Zhu (PhD student, HKUST ISOM, Since 2017 Fall)
 
-+ Yue Guo (PhD student, GZ Campus, Data Science and Analytics, Co-supervised with Prof. Yangqiu Song, CSE, Since 2020 Fall)
++ Yue Guo (PhD student, GZ Campus, Co-supervised with Prof. Yangqiu Song, CSE, Since 2020 Fall)
 
-+ Jiaxin Liu (PhD student, GZ Campus, Financial Technology, Co-supervised with Prof. Kar Yan Tam, Since 2021 Spring)
++ Jiaxin Liu (PhD student, GZ Campus, Co-supervised with Prof. Kar Yan Tam, ISOM, Since 2021 Spring)
 
-+ Zihan Meng (MPhil student, GZ Campus, Data Science and Analytics, Co-supervised with Prof. Qiong Luo, CSE, Since 2020 Fall)
++ Zihan Meng (MPhil student, GZ Campus, Co-supervised with Prof. Qiong Luo, CSE, Since 2020 Fall)
 
 
 **RAs**
