@@ -12,15 +12,15 @@ title: research
 <span style="color:#39c;">**Business-discipline Journals:**  </span> <br>
 + Identifying Market Structure: A Deep Network Representation Learning of Social Engagement. <br>
 Yi Yang, Kunpeng Zhang and P.K. Kannan <br>
-***Journal of Marketing***. Conditionally Accepted.<br>
+***Journal of Marketing***. Accepted.<br>
 
 + Analyzing Firm Reports for Volatility Prediction: A Knowledge-driven Text Embedding Approach. <br>
 Yi Yang, Kunpeng Zhang and YangYang Fan<br> 
-***INFORMS Journal on Computing***. Accepted.<br>
+***INFORMS Journal on Computing***. 2021.<br>
 
 + Unifying Online and Offline Preference for Social Link Prediction.<br>
 Fan Zhou, Bangying Wu, Kunpeng Zhang, Yi Yang, and Harry Wang <br> 
-***INFORMS Journal on Computing***. Forthcoming.<br><br>
+***INFORMS Journal on Computing***. 2020.<br><br>
 
 <span style="color:#39c;">**NLP/AI Conferences and Journals:**  </span>
 
@@ -107,5 +107,5 @@ Fei Huang, Arun Ahuja, Doug Downey,  Yi Yang, Yuhong Guo, and Alexander Yates. <
 *Computational Linguistics Journal*.  2014.<br>
 
 +  Overcoming the Memory Bottleneck in Distributed Training of Latent Variable Models of Text.  <br>
-	 Yi Yang, Doug Downey and Alexander Yates. <br>
+Yi Yang, Doug Downey and Alexander Yates. <br>
 *Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)*. 2013.
