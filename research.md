@@ -5,17 +5,21 @@ title: research
 
 ## Yi Yang | Research
 
-* * * 
+* * *
 
 <span style="font-size:24px;"> My research on business analytics and NLP are published in major business-discipline journals and major NLP/AI conferences and journals.</span>
 
 <span style="color:#39c;">**Business-discipline Journals:**  </span> <br>
++ sDTM: A Supervised Bayesian Deep Topic Model for Text Analytics.<br>
+Yi Yang, Kunpeng Zhang and Yangyang Fan <br>
+**Information Systems Research**. Accepted.<br>
+
 + Identifying Market Structure: A Deep Network Representation Learning of Social Engagement. <br>
 Yi Yang, Kunpeng Zhang and P.K. Kannan <br>
-***Journal of Marketing***. Accepted.<br>
+***Journal of Marketing***. 2021.<br>
 
 + Analyzing Firm Reports for Volatility Prediction: A Knowledge-driven Text Embedding Approach. <br>
-Yi Yang, Kunpeng Zhang and YangYang Fan<br> 
+Yi Yang, Kunpeng Zhang and Yangyang Fan<br> 
 ***INFORMS Journal on Computing***. 2021.<br>
 
 + Unifying Online and Offline Preference for Social Link Prediction.<br>
@@ -23,6 +27,24 @@ Fan Zhou, Bangying Wu, Kunpeng Zhang, Yi Yang, and Harry Wang <br>
 ***INFORMS Journal on Computing***. 2020.<br><br>
 
 <span style="color:#39c;">**NLP/AI Conferences and Journals:**  </span>
+
++ Deep Cross-Attention Network for Crowdfunding Success Prediction<br>
+
+  Zhe Tang, Yi Yang, Wen Li, Defu Lian, Lixin Duan<br>
+
+  IEEE Transactions on Multimedia <br>
+
++ Constructing a Psychometric Testbed for Fair Natural Language Processing<br>
+
+  Abbasi Ahmed, David Dobolyi, John P Lalor, Richard G Netemeyer, Kendall Smith, Yi Yang<br>
+
+  EMNLP 2021 <br>
+
++ Learning Numeracy: A Simple Yet Effective Number Embedding Approach Using Knowledge Graph<br>
+
+  Hanyu Duan, Yi Yang and Kar Yan Tam <br>
+
+  Findings of EMNLP 2021<br>
 
 + Rumor Detection on Social Media with Event Augmentations<br>
 Zhenyu He, Ce Li, Fan Zhou and Yi Yang <br>
@@ -57,11 +79,11 @@ Fan Zhou, Bangying Wu,  Yi Yang, Goce Trajcevski, Kunpeng Zhang, and Ting Zhong.
 
 +  Improving Topic Model Stability for Effective Document Exploration. <br>
  Yi Yang, Shimei Pan, Yangqiu Song, Jie Lu, Mercan Topkara.  <br>
-*International Joint Conference on Artificial Intelligence (IJCAI)*. 2016.<br>
+  *International Joint Conference on Artificial Intelligence (IJCAI)*. 2016.<br>
 
 +  The Stability and Usability of Statistical Topic Models. <br>
  Yi Yang, Shimei Pan, Jie Lu, Mercan Topkara and Yangqiu Song.  <br>
-*ACM Transactions on Interactive Intelligent Systems (TiiS)*. 2016.<br>
+  *ACM Transactions on Interactive Intelligent Systems (TiiS)*. 2016.<br>
 
 + Beating the artificial chaos: Fighting OSN spam using its own templates <br>
 Tiantian Zhu, Hongyu Gao, Yi Yang, Kai Bu, Yan Chen, Doug Downey, Kathy Lee and Alok Choudhary. <br>
@@ -69,8 +91,8 @@ Tiantian Zhu, Hongyu Gao, Yi Yang, Kai Bu, Yan Chen, Doug Downey, Kathy Lee and 
 
 
 + Efficient Algorithm for Incorporating Knowledge into Topic Models.  <br>
- Yi Yang, Doug Downey, Jordan Boyd-Graber. <br>	
-*Conference on Empirical Methods in Natural Language Processing (EMNLP)*. 2015. <br>
+ Yi Yang, Doug Downey, Jordan Boyd-Graber. <br>
+  *Conference on Empirical Methods in Natural Language Processing (EMNLP)*. 2015. <br>
 
 + Efficient Methods for Inferring Large Sparse Topic Hierarchies  <br>
 Doug Downey, Chandra Sekhar Bhagavatula,  Yi Yang. <br>
@@ -80,7 +102,7 @@ Doug Downey, Chandra Sekhar Bhagavatula,  Yi Yang. <br>
      Yi Yang, Shimei Pan, Yangqiu Song, Jie Lu, and Mercan Topkara.<br>
     *International Conference on Intelligent User Interfaces (IUI)*. 2015. <br>
     &#9733;Honorable Mention Award.
-<br>
+     <br>
 
 +  Incorporating User Input with Topic Modeling.  <br>
 Yi Yang, Shimei Pan, Jie Lu, Mercan Topkara, and Doug Downey. <br>
@@ -92,7 +114,7 @@ Hongyu Gao,  Yi Yang, Kai Bu, Yan Chen, Doug Downey, Kathy Lee and Alok Choudhar
 
 +  Active Learning with Constrained Topic Model.  <br>
  Yi Yang, Shimei Pan, Doug Downey and Kunpeng Zhang. <br>
-*Workshop on Interactive Language Learning, Visualization, and Interfaces*. 2014.<br>
+  *Workshop on Interactive Language Learning, Visualization, and Interfaces*. 2014.<br>
 
 +  A Systematic Framework for Sentiment Identification by Modeling User Social Effects. <br>
 Kunpeng Zhang,   Yi Yang, Aaron Sun, Hengchang Liu. <br>

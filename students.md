@@ -5,7 +5,7 @@ title: research
 
 ## Yi Yang | Students
 
-* * * 
+* * *
 <br>
 **Current Students** 
 + Yingpeng Zhu (PhD student, HKUST ISOM, Since 2017 Fall)
@@ -14,11 +14,14 @@ title: research
 
 + Jiaxin Liu (PhD student, GZ Campus, Co-supervised with Prof. Kar Yan Tam, ISOM, Since 2021 Spring)
 
++ Hanyu Duan (PhD student, HKUST ISOM, Co-supervised with Prof. Kar Yan Tam, Since 2020 Fall)
+
 + Zihan Meng (MPhil student, GZ Campus, Co-supervised with Prof. Qiong Luo, CSE, Since 2020 Fall)
 
-
 **RAs**
-+ Hanyu Duan (MSc student, HKUST Physics, Since 2020 Fall)
+
++ Weixuan Dong (PG Student, HKUST Big Data Technology, 2021 Summer)
+
 
 **Past Students and RAs** 
 + Xinyi Wang (UG Student, HKUST Math -> UCSB, CS PhD, 2018 - 2020)

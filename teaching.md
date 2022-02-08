@@ -5,7 +5,7 @@ title: teaching
 
 ## Yi Yang | Teaching
 
-* * * 
+* * *
 <br>
 **Instructor@Hong Kong University of Science and Technology** 
 
@@ -34,5 +34,4 @@ title: teaching
 **Teaching Assistant@Northwestern University**  
 EECS 348: Introduction to Artificial Intelligence.  [Spring 2015]  
 EECS 211: Fundamentals of Computer Programming (C++).  [Fall 2010]
-
 
