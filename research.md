@@ -12,7 +12,7 @@ title: research
 <span style="color:#39c;">**Business-discipline Journals:**  </span> <br>
 + sDTM: A Supervised Bayesian Deep Topic Model for Text Analytics.<br>
 Yi Yang, Kunpeng Zhang and Yangyang Fan <br>
-**Information Systems Research**. Accepted.<br>
+***Information Systems Research***. Accepted.<br>
 
 + Identifying Market Structure: A Deep Network Representation Learning of Social Engagement. <br>
 Yi Yang, Kunpeng Zhang and P.K. Kannan <br>
@@ -28,23 +28,11 @@ Fan Zhou, Bangying Wu, Kunpeng Zhang, Yi Yang, and Harry Wang <br>
 
 <span style="color:#39c;">**NLP/AI Conferences and Journals:**  </span>
 
-+ Deep Cross-Attention Network for Crowdfunding Success Prediction<br>
++ Deep Cross-Attention Network for Crowdfunding Success Prediction<br>Zhe Tang, Yi Yang, Wen Li, Defu Lian, Lixin Duan<br>*IEEE Transactions on Multimedia* <br>
 
-  Zhe Tang, Yi Yang, Wen Li, Defu Lian, Lixin Duan<br>
++ Constructing a Psychometric Testbed for Fair Natural Language Processing<br>Abbasi Ahmed, David Dobolyi, John P Lalor, Richard G Netemeyer, Kendall Smith, Yi Yang<br>*EMNLP*. 2021 <br>
 
-  IEEE Transactions on Multimedia <br>
-
-+ Constructing a Psychometric Testbed for Fair Natural Language Processing<br>
-
-  Abbasi Ahmed, David Dobolyi, John P Lalor, Richard G Netemeyer, Kendall Smith, Yi Yang<br>
-
-  EMNLP 2021 <br>
-
-+ Learning Numeracy: A Simple Yet Effective Number Embedding Approach Using Knowledge Graph<br>
-
-  Hanyu Duan, Yi Yang and Kar Yan Tam <br>
-
-  Findings of EMNLP 2021<br>
++ Learning Numeracy: A Simple Yet Effective Number Embedding Approach Using Knowledge Graph<br>Hanyu Duan, Yi Yang and Kar Yan Tam <br>*Findings of EMNLP*. 2021<br>
 
 + Rumor Detection on Social Media with Event Augmentations<br>
 Zhenyu He, Ce Li, Fan Zhou and Yi Yang <br>
