@@ -30,7 +30,7 @@ Fan Zhou, Bangying Wu, Kunpeng Zhang, Yi Yang, and Harry Wang <br>
 
 + Deep Cross-Attention Network for Crowdfunding Success Prediction<br>Zhe Tang, Yi Yang, Wen Li, Defu Lian, Lixin Duan<br>*IEEE Transactions on Multimedia* . 2022<br>
 
-+ Constructing a Psychometric Testbed for Fair Natural Language Processing<br>Abbasi Ahmed, David Dobolyi, John P Lalor, Richard G Netemeyer, Kendall Smith, Yi Yang<br>*EMNLP*. 2021 <br>
++ Constructing a Psychometric Testbed for Fair Natural Language Processing<br>Ahmed Abbasi, David Dobolyi, John P Lalor, Richard G Netemeyer, Kendall Smith, Yi Yang<br>*EMNLP*. 2021 <br>
 
 + Learning Numeracy: A Simple Yet Effective Number Embedding Approach Using Knowledge Graph<br>Hanyu Duan, Yi Yang and Kar Yan Tam <br>*Findings of EMNLP*. 2021<br>
 
