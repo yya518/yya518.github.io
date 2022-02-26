@@ -31,11 +31,11 @@ Fan Zhou, Bangying Wu, Kunpeng Zhang, Yi Yang, and Harry Wang <br> ***INFORMS Jo
 
 + Buy Tesla, Sell Ford: Assessing Implicit Stock Market Preference in Pre-trained Language Models <br> Chengyu Chuang, Yi Yang<br> *Annual Meeting of the Association for Computational Linguistics* (***ACL***). Short Paper. 2022.<br>
 
-+ Deep Cross-Attention Network for Crowdfunding Success Prediction<br>Zhe Tang, Yi Yang, Wen Li, Defu Lian, Lixin Duan<br>***IEEE Transactions on Multimedia***. 2022<br>
++ Deep Cross-Attention Network for Crowdfunding Success Prediction<br>Zhe Tang, Yi Yang, Wen Li, Defu Lian, Lixin Duan<br>***IEEE Transactions on Multimedia***. 2022.<br>
 
-+ Constructing a Psychometric Testbed for Fair Natural Language Processing<br>Ahmed Abbasi, David Dobolyi, John P Lalor, Richard G Netemeyer, Kendall Smith, Yi Yang<br>*Conference on Empirical Methods in Natural Language Processing* (***EMNLP***). Long Paper. 2021 <br>
++ Constructing a Psychometric Testbed for Fair Natural Language Processing<br>Ahmed Abbasi, David Dobolyi, John P Lalor, Richard G Netemeyer, Kendall Smith, Yi Yang<br>*Conference on Empirical Methods in Natural Language Processing* (***EMNLP***). Long Paper. 2021. <br>
 
-+ Learning Numeracy: A Simple Yet Effective Number Embedding Approach Using Knowledge Graph<br>Hanyu Duan, Yi Yang and Kar Yan Tam <br>*Findings of Conference on Empirical Methods in Natural Language Processing* (***Findings of EMNLP***). Short Paper. 2021<br>
++ Learning Numeracy: A Simple Yet Effective Number Embedding Approach Using Knowledge Graph<br>Hanyu Duan, Yi Yang and Kar Yan Tam <br>*Findings of Conference on Empirical Methods in Natural Language Processing* (***Findings of EMNLP***). Short Paper. 2021.<br>
 
 + Rumor Detection on Social Media with Event Augmentations<br>
 Zhenyu He, Ce Li, Fan Zhou and Yi Yang <br>
