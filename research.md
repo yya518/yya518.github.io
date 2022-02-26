@@ -27,9 +27,9 @@ Fan Zhou, Bangying Wu, Kunpeng Zhang, Yi Yang, and Harry Wang <br> ***INFORMS Jo
 
 <span style="color:#39c;">**NLP/AI Conferences and Journals:**  </span>
 
-+ Auto-Debias: Debiasing Masked Language Models with Automated Biased Prompts <br> Yue Guo, Yi Yang, Ahmed Abbasi<br> *Annual Meeting of the Association for Computational Linguistics*. (***ACL***). Long Paper. 2022.<br>
++ Auto-Debias: Debiasing Masked Language Models with Automated Biased Prompts <br> Yue Guo, Yi Yang, Ahmed Abbasi<br> *Annual Meeting of the Association for Computational Linguistics* (***ACL***). Long Paper. 2022.<br>
 
-+ Buy Tesla, Sell Ford: Assessing Implicit Stock Market Preference in Pre-trained Language Models <br> Chengyu Chuang, Yi Yang<br> *Annual Meeting of the Association for Computational Linguistics*. (***ACL***). Short Paper. 2022.<br>
++ Buy Tesla, Sell Ford: Assessing Implicit Stock Market Preference in Pre-trained Language Models <br> Chengyu Chuang, Yi Yang<br> *Annual Meeting of the Association for Computational Linguistics* (***ACL***). Short Paper. 2022.<br>
 
 + Deep Cross-Attention Network for Crowdfunding Success Prediction<br>Zhe Tang, Yi Yang, Wen Li, Defu Lian, Lixin Duan<br>***IEEE Transactions on Multimedia***. 2022<br>
 
