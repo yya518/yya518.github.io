@@ -29,9 +29,7 @@ title: research
 <span style="color:#39c;">**NLP/AI Conferences and Journals:**  </span>
 
 + Benchmarking Intersectional Biases in NLP <br>
-  
   John Lalor, Yi Yang, Kendall Smith, Nicole Forsgren, Ahmed Abbasi<br>
-  
   Annual Conference of the North American Chapter of the Association for Computational Linguistics (**NAACL**). Long Paper. 2022. <br>
 
 + Auto-Debias: Debiasing Masked Language Models with Automated Biased Prompts <br> Yue Guo, Yi Yang, Ahmed Abbasi<br> *Annual Meeting of the Association for Computational Linguistics* (***ACL***). Long Paper. 2022.<br>
