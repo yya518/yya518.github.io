@@ -95,8 +95,7 @@ title: research
     Yi Yang, Shimei Pan, Yangqiu Song, Jie Lu, and Mercan Topkara.<br>
    *International Conference on Intelligent User Interfaces* (***IUI***). 2015. <br>
    &#9733;Honorable Mention Award.
-  
-  <br>
+    <br>
 
 + Incorporating User Input with Topic Modeling.  <br>
   Yi Yang, Shimei Pan, Jie Lu, Mercan Topkara, and Doug Downey. <br>
