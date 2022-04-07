@@ -34,7 +34,7 @@ title: research
 
 + Siddhartha Datta (UG Student, HKUST Business -> Oxford, CS PhD, 2019 Summer)
 
-+ Mark Christopher Siy UY (UG RA, HKUST CSE, 2019 Summer)
++ Mark Christopher Siy UY (UG RA, HKUST CSE -> J.P. Morgan, 2019 Summer)
 
 + Tianle Li (UG Student, HKUST CSE, 2020 Summer)
 
