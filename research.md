@@ -11,6 +11,10 @@ title: research
 
 <span style="color:#39c;">**Business-discipline Journals:**  </span> <br>
 
++ Unlocking the Power of Voice for Financial Risk Prediction: A Theory-Driven Deep Learning Design Approach.<br>
+  Yi Yang, Qin Yu, Yangyang Fan and John Zhang<br>
+  ***MIS Quarterly***. Accepted.<br>
+
 + sDTM: A Supervised Bayesian Deep Topic Model for Text Analytics.<br>
   Yi Yang, Kunpeng Zhang and Yangyang Fan <br>
   ***Information Systems Research***. Accepted.<br>
@@ -30,7 +34,7 @@ title: research
 
 + Benchmarking Intersectional Biases in NLP <br>
   John Lalor, Yi Yang, Kendall Smith, Nicole Forsgren, Ahmed Abbasi<br>
-  *Annual Conference of the North American Chapter of the Association for Computational Linguistics* (**NAACL**). Long Paper. 2022. <br>
+  *Annual Conference of the North American Chapter of the Association for Computational Linguistics* (***NAACL***). Long Paper. 2022. <br>
 
 + Auto-Debias: Debiasing Masked Language Models with Automated Biased Prompts <br> Yue Guo, Yi Yang, Ahmed Abbasi<br> *Annual Meeting of the Association for Computational Linguistics* (***ACL***). Long Paper. 2022.<br>
 
@@ -95,7 +99,8 @@ title: research
     Yi Yang, Shimei Pan, Yangqiu Song, Jie Lu, and Mercan Topkara.<br>
    *International Conference on Intelligent User Interfaces* (***IUI***). 2015. <br>
    &#9733;Honorable Mention Award.
-    <br>
+  
+  <br>
 
 + Incorporating User Input with Topic Modeling.  <br>
   Yi Yang, Shimei Pan, Jie Lu, Mercan Topkara, and Doug Downey. <br>
