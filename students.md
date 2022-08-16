@@ -7,7 +7,7 @@ title: research
 
 * * *
 <br>
-**Current Students** 
+**Current Students**
 + Yingpeng Zhu (PhD student, HKUST ISOM, Since 2017 Fall)
 
 + Yue Guo (PhD student, GZ Campus, Co-supervised with Prof. Yangqiu Song, CSE, Since 2020 Fall)
@@ -16,15 +16,8 @@ title: research
 
 + Hanyu Duan (PhD student, HKUST ISOM, Co-supervised with Prof. Kar Yan Tam, Since 2020 Fall)
 
-+ Zihan Meng (MPhil student, GZ Campus, Co-supervised with Prof. Qiong Luo, CSE, Since 2020 Fall)
-
 **RAs**
-
-+ Weixuan Dong (PG Student, HKUST Big Data Technology, Since 2021 Summer)
-
-+ Luke Chen (Since 2021 Winter)
-
-+ Cheng Yu Chuang (UG Student, HKUST, Since 2021 Fall)
++ Zhuoyi Peng (Since Spring 2022)
 
 
 **Past Students and RAs** 
@@ -38,5 +31,14 @@ title: research
 
 + Tianle Li (UG Student, HKUST CSE, 2020 Summer)
 
-+ Monique Tung Kong (UG RA, HKUST Business, 2020 Summer)
++ Monique Tung Kong (UG RA, HKUST Business, 2020 Summer) 
+
++ Weixuan Dong (PG Student, HKUST Big Data Technology, 2021 Summer)
+
++ Luke Chen (2021 Winter)
+
++ Cheng Yu Chuang (UG Student, HKUST, 2021 Fall)
+
++ Zihan Meng (MPhil student, GZ Campus, Co-supervised with Prof. Qiong Luo, CSE, 2020 - 2022)
+
 

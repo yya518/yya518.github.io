@@ -13,11 +13,11 @@ title: research
 
 + Unlocking the Power of Voice for Financial Risk Prediction: A Theory-Driven Deep Learning Design Approach.<br>
   Yi Yang, Qin Yu, Yangyang Fan and John Zhang<br>
-  ***MIS Quarterly***. Accepted.<br>
+  ***MIS Quarterly***. Forthcoming.<br>
 
 + sDTM: A Supervised Bayesian Deep Topic Model for Text Analytics.<br>
   Yi Yang, Kunpeng Zhang and Yangyang Fan <br>
-  ***Information Systems Research***. Accepted.<br>
+  ***Information Systems Research***. 2022.<br>
 
 + Identifying Market Structure: A Deep Network Representation Learning of Social Engagement. <br>
   Yi Yang, Kunpeng Zhang and P.K. Kannan <br>
