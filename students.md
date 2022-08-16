@@ -10,11 +10,11 @@ title: research
 **Current Students**
 + Yingpeng Zhu (PhD student, HKUST ISOM, Since 2017 Fall)
 
-+ Yue Guo (PhD student, GZ Campus, Co-supervised with Prof. Yangqiu Song, CSE, Since 2020 Fall)
++ Yue Guo (PhD student, Co-supervised with Prof. Yangqiu Song, CSE, Since 2020 Fall)
 
-+ Jiaxin Liu (PhD student, GZ Campus, Co-supervised with Prof. Kar Yan Tam, ISOM, Since 2021 Spring)
-
-+ Hanyu Duan (PhD student, HKUST ISOM, Co-supervised with Prof. Kar Yan Tam, Since 2020 Fall)
++ Jiaxin Liu (PhD student, Co-supervised with Prof. Kar Yan Tam, ISOM, Since 2021 Spring)
+  
++ Hanyu Duan (PhD student, Co-supervised with Prof. Kar Yan Tam, ISOM, Since 2020 Fall)
 
 **RAs**
 + Zhuoyi Peng (Since Spring 2022)
