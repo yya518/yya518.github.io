@@ -10,9 +10,12 @@ title: research
 <span style="font-size:24px;"> My research on business analytics and NLP are published in major business-discipline journals and major NLP/AI conferences and journals.</span>
 
 <span style="color:#39c;">**Business-discipline Journals:**  </span> <br>
++ FinBERT—A Large Language Model for Extracting Information from Financial Text. <br>
+  Allen Huang, Hui Wang and Yi Yang  <br>
+  ***Contemporary Accounting Research***. Forthcoming. <br>
 
 + Unlocking the Power of Voice for Financial Risk Prediction: A Theory-Driven Deep Learning Design Approach.<br>
-  Yi Yang, Qin Yu, Yangyang Fan and John Zhang<br>
+  Yi Yang, Yu Qin, Yangyang Fan and Zhongju Zhang<br>
   ***MIS Quarterly***. Forthcoming.<br>
 
 + sDTM: A Supervised Bayesian Deep Topic Model for Text Analytics.<br>
