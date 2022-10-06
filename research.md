@@ -34,6 +34,13 @@ title: research
   Fan Zhou, Bangying Wu, Kunpeng Zhang, Yi Yang, and Harry Wang <br> ***INFORMS Journal on Computing***. 2020.<br><br>
 
 <span style="color:#39c;">**NLP/AI Conferences and Journals:**  </span>
++ BARLE: Background-Aware Representation Learning for Background Shift Out-of-Distribution Detection<br>
+ Hanyu Duan, Yi Yang, Ahmed Abbasi, Kar Yan Tam<br>
+ *Findings of Conference on Empirical Methods in Natural Language Processing* (***Findings of EMNLP***). Long Paper. 2022. <br>
+
++ Federated Meta Embedding Concept Stock Recommendation <br>
+ Zhuoyi Peng, Yi Yang, Liu Yang and Kai Chen <br>
+ ***IEEE Transactions on Big Data***. 2022
 
 + Benchmarking Intersectional Biases in NLP <br>
   John Lalor, Yi Yang, Kendall Smith, Nicole Forsgren, Ahmed Abbasi<br>
