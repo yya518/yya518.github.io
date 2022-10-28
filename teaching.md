@@ -17,7 +17,9 @@ title: teaching
 
 + ISOM5270 (MBA for Professionals Part-time): Big Data Analytics. [Spring 2020]
 
-+ ISOM5270 (Msc): Big Data Analytics. [Spring 2022]
++ ISOM5270 (Msc in Global Operatoins): Big Data Analytics. [Spring 2022]
+
++ ISOM5270 (Msc in Accounting): Big Data Analytics. [Spring 2022]
 
 
 &#9733;I am nominated by School for **The Franklin Prize for Teaching Excellence** for Year 2018, and Year 2021.
