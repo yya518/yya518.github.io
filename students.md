@@ -29,13 +29,13 @@ title: research
 
 + Mark Christopher Siy UY (UG RA, HKUST CSE -> J.P. Morgan, 2019 Summer)
 
-+ Tianle Li (UG Student, HKUST CSE, 2020 Summer)
++ Tianle Li (UG Student, HKUST CSE -> University of Waterloo, 2020 Summer)
 
-+ Monique Tung Kong (UG RA, HKUST Business, 2020 Summer) 
++ Monique Tung Kong (UG RA, HKUST Business School, 2020 Summer) 
 
 + Weixuan Dong (PG Student, HKUST Big Data Technology, 2021 Summer)
 
-+ Luke Chen (2021 Winter)
++ Luke Chen (RA, 2021 Winter)
 
 + Cheng Yu Chuang (UG Student, HKUST, 2021 Fall)
 

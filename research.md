@@ -10,6 +10,11 @@ title: research
 <span style="font-size:24px;"> My research on business analytics and NLP are published in major business-discipline journals and major NLP/AI conferences and journals.</span>
 
 <span style="color:#39c;">**Business-discipline Journals:**  </span> <br>
+
++ Extracting Actionable Insights from Text Data: A Stable Topic Model Approach. <br>
+  Yi Yang and Ramanath Subramanyam  <br>
+  ***MIS Quarterly***. Accepted. <br>
+
 + FinBERT—A Large Language Model for Extracting Information from Financial Text. <br>
   Allen Huang, Hui Wang and Yi Yang  <br>
   ***Contemporary Accounting Research***. Forthcoming. <br>
@@ -36,11 +41,11 @@ title: research
 <span style="color:#39c;">**NLP/AI Conferences and Journals:**  </span>
 + BARLE: Background-Aware Representation Learning for Background Shift Out-of-Distribution Detection<br>
  Hanyu Duan, Yi Yang, Ahmed Abbasi, Kar Yan Tam<br>
- *Findings of Conference on Empirical Methods in Natural Language Processing* (***Findings of EMNLP***). Long Paper. 2022. <br>
+  *Findings of Conference on Empirical Methods in Natural Language Processing* (***Findings of EMNLP***). Long Paper. 2022. <br>
 
 + Federated Meta Embedding Concept Stock Recommendation <br>
  Zhuoyi Peng, Yi Yang, Liu Yang and Kai Chen <br>
- ***IEEE Transactions on Big Data***. 2022
+  ***IEEE Transactions on Big Data***. 2022
 
 + Benchmarking Intersectional Biases in NLP <br>
   John Lalor, Yi Yang, Kendall Smith, Nicole Forsgren, Ahmed Abbasi<br>
