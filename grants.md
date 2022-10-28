@@ -5,7 +5,7 @@ title: grant
 
 ## Yi Yang | Grants
 
-* * * 
+* * *
 
 <br>
 My research is supported by the following grants:
@@ -14,7 +14,7 @@ My research is supported by the following grants:
 
 + HKUST-WeBank Joint Lab Project (HK $497,000), Pre-training for Tabular Business Data (企业数据模型预训练), 2022-2023
 
-+ HKUST-Kaisa Group Seed Project on Fintech (HK $550,000), HKUST-Kaisa Joint Research Institute, 2021-2022
++ HKUST-Kaisa Group Seed Project on Fintech (HK $550,000), Deep Learning in Financial NLP, HKUST-Kaisa Joint Research Institute, 2021-2022
 
 + Early Career Scheme (HK $458,000), Hong Kong Research Grants Council, 2019-2022
 
