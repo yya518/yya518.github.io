@@ -20,7 +20,7 @@ I maintain a **FinBERT** project with [Prof. Allen Huang](https://acct.hkust.edu
 **FinBERT has a family of models for financial NLP tasks**. Code samples can be found at [FinBERT Github](https://github.com/yya518/FinBERT).
 
 - Sentiment Analysis
-- ESG Categorization (4-class Environmental Social Governance (ESG), and 9-class Environmental Social Governance (ESG) )
+- ESG Categorization (4-class ESG, and 9-class ESG)
 - Forward-looking Statement Classification
 
 
