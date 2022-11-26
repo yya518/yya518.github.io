@@ -13,7 +13,7 @@ title: research
 
 + Extracting Actionable Insights from Text Data: A Stable Topic Model Approach. <br>
   Yi Yang and Ramanath Subramanyam  <br>
-  ***MIS Quarterly***. Accepted. <br>
+  ***MIS Quarterly***. Forthcoming. <br>
 
 + FinBERT—A Large Language Model for Extracting Information from Financial Text. <br>
   Allen Huang, Hui Wang and Yi Yang  <br>

@@ -35,7 +35,7 @@ title: research
 
 + Weixuan Dong (PG Student, HKUST Big Data Technology, 2021 Summer)
 
-+ Luke Chen (RA, 2021 Winter)
++ Luke Chen (RA, 2021 Winter -> CUHK PhD)
 
 + Cheng Yu Chuang (UG Student, HKUST, 2021 Fall)
 
