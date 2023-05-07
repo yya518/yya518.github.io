@@ -3,141 +3,209 @@ layout: default
 title: research
 ---
 
+
 ## Yi Yang | Research
 
 * * *
 
-<span style="font-size:24px;"> My research on business analytics and NLP are published in major business-discipline journals and major NLP/AI conferences and journals.</span>
+<span style="font-size:24px;"> My research on business analytics and NLP is published in major business-discipline journals and major NLP/AI conferences and journals.</span>
 
-<span style="color:#39c;">**Business-discipline Journals:**  </span> <br>
+{% include publication-buttons.html %}
 
-+ Extracting Actionable Insights from Text Data: A Stable Topic Model Approach. <br>
-  Yi Yang and Ramanath Subramanyam  <br>
-  ***MIS Quarterly***. Forthcoming. <br>
++ Causal-Debias: Unifying Debiasing in Pretrained Language Models and Fine-tuning via Causal Invariant Learning.  
+Fan Zhou, Yuzhou Mao, Liu Yu, Yi Yang and Ting Zhong.  
+*Annual Meeting of the Association for Computational Linguistics* (***ACL***). Long Paper. 2023.
+{: .nlp}
 
-+ FinBERT—A Large Language Model for Extracting Information from Financial Text. <br>
-  Allen Huang, Hui Wang and Yi Yang  <br>
-  ***Contemporary Accounting Research***. Forthcoming. <br>
++ Extracting Actionable Insights from Text Data: A Stable Topic Model Approach.  
+Yi Yang and Ramanath Subramanyam.      
+***MIS Quarterly***. Forthcoming.    
+{: .business}
 
-+ Unlocking the Power of Voice for Financial Risk Prediction: A Theory-Driven Deep Learning Design Approach.<br>
-  Yi Yang, Yu Qin, Yangyang Fan and Zhongju Zhang<br>
-  ***MIS Quarterly***. Forthcoming.<br>
++ [Unlocking the Power of Voice for Financial Risk Prediction: A Theory-Driven Deep Learning Design Approach](https://misq.umn.edu/unlocking-the-power-of-voice-for-financial-risk-prediction-a-theory-driven-deep-learning-design-approach.html).  
+Yi Yang, Yu Qin, Yangyang Fan and Zhongju Zhang.  
+ ***MIS Quarterly***. 2023.  
+{: .business}
 
-+ sDTM: A Supervised Bayesian Deep Topic Model for Text Analytics.<br>
-  Yi Yang, Kunpeng Zhang and Yangyang Fan <br>
-  ***Information Systems Research***. 2022.<br>
 
-+ Identifying Market Structure: A Deep Network Representation Learning of Social Engagement. <br>
-  Yi Yang, Kunpeng Zhang and P.K. Kannan <br>
-  ***Journal of Marketing***. 2021.<br>
++ [BARLE: Background-Aware Representation Learning for Background Shift Out-of-Distribution Detection](https://aclanthology.org/2022.findings-emnlp.53/).  
+Hanyu Duan, Yi Yang, Ahmed Abbasi, Kar Yan Tam.  
+*Findings of Conference on Empirical Methods in Natural Language Processing* (***Findings of EMNLP***). Long Paper. 2022. 
+{: .nlp}
 
-+ Analyzing Firm Reports for Volatility Prediction: A Knowledge-driven Text Embedding Approach. <br>
-  Yi Yang, Kunpeng Zhang and Yangyang Fan<br> 
-  ***INFORMS Journal on Computing***. 2021.<br>
++ [Federated Meta Embedding Concept Stock Recommendation](https://ieeexplore.ieee.org/document/9919348/).  
+Zhuoyi Peng, Yi Yang, Liu Yang and Kai Chen.   
+***IEEE Transactions on Big Data***. 2022
+{: .nlp}
 
-+ Unifying Online and Offline Preference for Social Link Prediction.<br>
-  Fan Zhou, Bangying Wu, Kunpeng Zhang, Yi Yang, and Harry Wang <br> ***INFORMS Journal on Computing***. 2020.<br><br>
++ [FinBERT—A Large Language Model for Extracting Information from Financial Text](https://onlinelibrary.wiley.com/doi/full/10.1111/1911-3846.12832).   
+Allen Huang, Hui Wang and Yi Yang.   
+***Contemporary Accounting Research***. 2022. 
+{: .business}
 
++ [sDTM: A Supervised Bayesian Deep Topic Model for Text Analytics](https://pubsonline.informs.org/doi/full/10.1287/isre.2022.1124).  
+Yi Yang, Kunpeng Zhang and Yangyang Fan.  
+***Information Systems Research***. 2022.
+{: .business}
+
++ [Benchmarking Intersectional Biases in NLP](https://aclanthology.org/2022.naacl-main.263.pdf).  
+John Lalor, Yi Yang, Kendall Smith, Nicole Forsgren, Ahmed Abbasi.  
+*Annual Conference of the North American Chapter of the Association for Computational Linguistics* (***NAACL***). Long Paper. 2022.   
+{: .nlp}
+
++ [Auto-Debias: Debiasing Masked Language Models with Automated Biased Prompts](https://aclanthology.org/2022.acl-long.72.pdf).  
+Yue Guo, Yi Yang, Ahmed Abbasi.  
+*Annual Meeting of the Association for Computational Linguistics* (***ACL***). Long Paper. 2022.
+{: .nlp}
+
++ [Buy Tesla, Sell Ford: Assessing Implicit Stock Market Preference in Pre-trained Language Models](https://aclanthology.org/2022.acl-short.12.pdf).  
+Chengyu Chuang, Yi Yang.  
+*Annual Meeting of the Association for Computational Linguistics* (***ACL***). Short Paper. 2022.
+{: .nlp}
+
++ [Deep Cross-Attention Network for Crowdfunding Success Prediction](https://ieeexplore.ieee.org/document/9674839).  
+Zhe Tang, Yi Yang, Wen Li, Defu Lian, Lixin Duan.  
+***IEEE Transactions on Multimedia***. 2022. 
+{: .nlp}
+
+
++ [Constructing a Psychometric Testbed for Fair Natural Language Processing](https://aclanthology.org/2021.emnlp-main.304.pdf).  
+Ahmed Abbasi, David Dobolyi, John P Lalor, Richard G Netemeyer, Kendall Smith, Yi Yang.  
+*Conference on Empirical Methods in Natural Language Processing* (***EMNLP***). Long Paper. 2021.  
+{: .nlp}
+
++ [Learning Numeracy: A Simple Yet Effective Number Embedding Approach Using Knowledge Graph](https://aclanthology.org/2021.findings-emnlp.221.pdf).  
+Hanyu Duan, Yi Yang and Kar Yan Tam.  
+*Findings of Conference on Empirical Methods in Natural Language Processing* (***Findings of EMNLP***). Short Paper. 2021.
+{: .nlp}
+
++ [Rumor Detection on Social Media with Event Augmentations](https://dl.acm.org/doi/10.1145/3404835.3463001).  
+Zhenyu He, Ce Li, Fan Zhou and Yi Yang.  
+*International ACM SIGIR Conference on Research and Development in Information Retrieval* (***SIGIR***). 2021.
+{: .nlp}
+
++ [Identifying Market Structure: A Deep Network Representation Learning of Social Engagement](https://journals.sagepub.com/doi/full/10.1177/00222429211033585).  
+Yi Yang, Kunpeng Zhang and P.K. Kannan.  
+***Journal of Marketing***. 2021.
+{: .business}
+
++ [FinBERT: A Pretrained Language Model for Financial Communications](https://arxiv.org/abs/2006.08097).  
+Yi Yang, Mark Christopher Siy UY, Allen Huang.  
+{: .nlp}
+
++ [Generating Plausible Counterfactual Explanations for Deep Transformers in Financial Text Classification](https://arxiv.org/abs/2010.12512).  
+Linyi Yang, Eoin Kenny, Tin Lok James Ng,  Yi Yang, Barry Smyth and Ruihai Dong.  
+*International Conference on Computational Linguistics* (***COLING***). 2020. 
+{: .nlp}
+
++ [Analyzing Firm Reports for Volatility Prediction: A Knowledge-driven Text Embedding Approach](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2020.1046).  
+Yi Yang, Kunpeng Zhang and Yangyang Fan.  
+***INFORMS Journal on Computing***. 2021.
+{: .business}
+
++ [Unifying Online and Offline Preference for Social Link Prediction](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2020.0989).  
+Fan Zhou, Bangying Wu, Kunpeng Zhang, Yi Yang, and Harry Wang.  
+***INFORMS Journal on Computing***. 2020.
+{: .business}
+
++ [Interpreting Twitter User Geolocation](https://aclanthology.org/2020.acl-main.79/).  
+Ting Zhong, Tianliang Wang, Fan Zhou, Goce Trajcevski, Kunpeng Zhang and  Yi Yang.  
+*Annual Meeting of the Association for Computational Linguistics*. (***ACL***). Short Paper. 2020.
+{: .nlp}
+
++ [Interpretable Operational Risk Classification with Semi-supervised Variational Autoencoder](https://aclanthology.org/2020.acl-main.78/).  
+Fan Zhou, Shengming Zhang and Yi Yang.  
+*Annual Meeting of the Association for Computational Linguistics* (***ACL***). Short Paper. 2020.
+{: .nlp}
+
++ [Neural Topic Model with Attention for Supervised Learning](http://proceedings.mlr.press/v108/wang20c/wang20c.pdf).   
+Xinyi Wang, and  Yi Yang.    
+*International Conference on Artificial Intelligence and Statistics* (***AISTATS***). 2020.  
+{: .nlp}
+
++ [What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues](https://aclanthology.org/P19-1038.pdf).  
+Yu Qin, and  Yi Yang.    
+*Annual Meeting of the Association for Computational Linguistics* (***ACL***). Long Paper. 2019.  
+{: .nlp}
+
++ [Vec2Link: Unifying heterogeneous data for social link prediction](https://dl.acm.org/doi/10.1145/3269206.3269244).   
+Fan Zhou, Bangying Wu,  Yi Yang, Goce Trajcevski, Kunpeng Zhang, and Ting Zhong.  
+*International Conference on Information and Knowledge Management* (***CIKM***). 2018.  
+{: .nlp}
+
++ [Improving Topic Model Stability for Effective Document Exploration](https://www.ijcai.org/Proceedings/16/Papers/635.pdf).  
+Yi Yang, Shimei Pan, Yangqiu Song, Jie Lu, Mercan Topkara.   
+*International Joint Conference on Artificial Intelligence* (***IJCAI***). 2016.  
+{: .nlp}
+
++ [The Stability and Usability of Statistical Topic Models](https://dl.acm.org/doi/10.1145/2954002).   
+Yi Yang, Shimei Pan, Jie Lu, Mercan Topkara and Yangqiu Song.    
+***ACM Transactions on Interactive Intelligent Systems***. 2016.  
+{: .nlp}
+
++ [Beating the artificial chaos: Fighting OSN spam using its own templates](https://ieeexplore.ieee.org/document/7467532).  
+Tiantian Zhu, Hongyu Gao, Yi Yang, Kai Bu, Yan Chen, Doug Downey, Kathy Lee and Alok Choudhary.  
+***IEEE/ACM Transactions on Networking***. 2016 
+{: .nlp}
+
++ (Efficient Algorithm for Incorporating Knowledge into Topic Models](https://aclanthology.org/D15-1037.pdf).  
+Yi Yang, Doug Downey, Jordan Boyd-Graber.  
+*Conference on Empirical Methods in Natural Language Processing* (***EMNLP***). Long Paper. 2015.  
+{: .nlp}
+
++ [Efficient Methods for Inferring Large Sparse Topic Hierarchies](https://aclanthology.org/P15-1075.pdf).  
+Doug Downey, Chandra Sekhar Bhagavatula,  Yi Yang.   
+*Annual Meeting of the Association for Computational Linguistics* (***ACL***). Long Paper. 2015.  
+{: .nlp}
+
++ [User-directed Non-disruptive Topic Model Update for Effective Exploration of Dynamic Content](https://dl.acm.org/doi/10.1145/2678025.2701396).   
+Yi Yang, Shimei Pan, Yangqiu Song, Jie Lu, and Mercan Topkara.  
+*International Conference on Intelligent User Interfaces* (***IUI***). 2015.  
+&#9733;Honorable Mention Award.  
+{: .nlp}
+
+
++ [Spam ain’t as Diverse as It Seems: Throttling OSN Spam with Templates Underneath](https://dl.acm.org/doi/abs/10.1145/2664243.2664251).  
+Hongyu Gao,  Yi Yang, Kai Bu, Yan Chen, Doug Downey, Kathy Lee and Alok Choudhary.  
+*Annual Computer Security Applications Conference* (***ACSAC***). 2014.   
+{: .nlp}
+
+
++ [A Systematic Framework for Sentiment Identification by Modeling User Social Effects](https://ieeexplore.ieee.org/document/6927622).  
+Kunpeng Zhang, Yi Yang, Aaron Sun, Hengchang Liu.   
+*International Conference on Web Intelligence* (***WI***). 2014.  
+{: .nlp}
+
++ [Incorporating Conditional Random Fields and Active Learning to Improve Sentiment Identification](https://www.sciencedirect.com/science/article/abs/pii/S0893608014000896).  
+Kunpeng Zhang, Yusheng Xie,  Yi Yang, Aaron Sun, Hengchang Liu, Alok Choudhary.  
+***Neural Networks Journal***. 2014.  
+{: .nlp}
+
++ [Learning Representations for Weakly Supervised Natural Language Processing Tasks](https://aclanthology.org/J14-1004.pdf).  
+Fei Huang, Arun Ahuja, Doug Downey,  Yi Yang, Yuhong Guo, and Alexander Yates.  
+***Computational Linguistics Journal***.  2014.  
+{: .nlp}
+
++ [Overcoming the Memory Bottleneck in Distributed Training of Latent Variable Models of Text](https://aclanthology.org/N13-1065.pdf).     
+  Yi Yang, Doug Downey and Alexander Yates.  
+  *Annual Conference of the North American Chapter of the Association for Computational Linguistics* (***NAACL***). Short Paper. 2013.  
+{: .nlp}
+
+<!---
++ **New Conference Paper Title**  
+  Author Names  
+  Year  
+  Conference Name
+{: .conference}
+
+
+<span style="color:#39c;">**Business-discipline Journals:**  </span>
 <span style="color:#39c;">**NLP/AI Conferences and Journals:**  </span>
-+ BARLE: Background-Aware Representation Learning for Background Shift Out-of-Distribution Detection<br>
- Hanyu Duan, Yi Yang, Ahmed Abbasi, Kar Yan Tam<br>
-  *Findings of Conference on Empirical Methods in Natural Language Processing* (***Findings of EMNLP***). Long Paper. 2022. <br>
 
-+ Federated Meta Embedding Concept Stock Recommendation <br>
- Zhuoyi Peng, Yi Yang, Liu Yang and Kai Chen <br>
-  ***IEEE Transactions on Big Data***. 2022
+-->
 
-+ Benchmarking Intersectional Biases in NLP <br>
-  John Lalor, Yi Yang, Kendall Smith, Nicole Forsgren, Ahmed Abbasi<br>
-  *Annual Conference of the North American Chapter of the Association for Computational Linguistics* (***NAACL***). Long Paper. 2022. <br>
 
-+ Auto-Debias: Debiasing Masked Language Models with Automated Biased Prompts <br> Yue Guo, Yi Yang, Ahmed Abbasi<br> *Annual Meeting of the Association for Computational Linguistics* (***ACL***). Long Paper. 2022.<br>
 
-+ Buy Tesla, Sell Ford: Assessing Implicit Stock Market Preference in Pre-trained Language Models <br> Chengyu Chuang, Yi Yang<br> *Annual Meeting of the Association for Computational Linguistics* (***ACL***). Short Paper. 2022.<br>
 
-+ Deep Cross-Attention Network for Crowdfunding Success Prediction<br>Zhe Tang, Yi Yang, Wen Li, Defu Lian, Lixin Duan<br>***IEEE Transactions on Multimedia***. 2022.<br>
 
-+ Constructing a Psychometric Testbed for Fair Natural Language Processing<br>Ahmed Abbasi, David Dobolyi, John P Lalor, Richard G Netemeyer, Kendall Smith, Yi Yang<br>*Conference on Empirical Methods in Natural Language Processing* (***EMNLP***). Long Paper. 2021. <br>
 
-+ Learning Numeracy: A Simple Yet Effective Number Embedding Approach Using Knowledge Graph<br>Hanyu Duan, Yi Yang and Kar Yan Tam <br>*Findings of Conference on Empirical Methods in Natural Language Processing* (***Findings of EMNLP***). Short Paper. 2021.<br>
-
-+ Rumor Detection on Social Media with Event Augmentations<br>Zhenyu He, Ce Li, Fan Zhou and Yi Yang <br>*International ACM SIGIR Conference on Research and Development in Information Retrieval* (***SIGIR***). 2021. <br>
-
-+ Generating Plausible Counterfactual Explanations for Deep Transformers in Financial Text Classification <br>
-  Linyi Yang, Eoin Kenny, Tin Lok James Ng,  Yi Yang, Barry Smyth and Ruihai Dong <br>
-  *International Conference on Computational Linguistics* (***COLING***). 2020. <br>
-
-+ FinBERT: A Pretrained Language Model for Financial Communications <a href="https://github.com/yya518/FinBERT"> [Link]</a>  <br>
-  Yi Yang, Mark Christopher Siy UY, Allen Huang <br>
-
-+ Interpreting Twitter User Geolocation   <br>
-  Ting Zhong, Tianliang Wang, Fan Zhou, Goce Trajcevski, Kunpeng Zhang and  Yi Yang <br>
-  *Annual Meeting of the Association for Computational Linguistics*. (***ACL***). Short Paper. 2020.<br>
-
-+ Interpretable Operational Risk Classification with Semi-supervised Variational Autoencoder   <br>
-  Fan Zhou, Shengming Zhang and Yi Yang  <br>
-  *Annual Meeting of the Association for Computational Linguistics* (***ACL***). Short Paper. 2020.<br>
-
-+ Neural Topic Model with Attention for Supervised Learning.  <br>
-  Xinyi Wang, and  Yi Yang.  <br>
-  *International Conference on Artificial Intelligence and Statistics* (***AISTATS***). 2020.<br>
-
-+ What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues.  <br>
-  Yu Qin, and  Yi Yang.  <br>
-  *Annual Meeting of the Association for Computational Linguistics* (***ACL***). Long Paper. 2019.<br>
-
-+ Vec2Link: Unifying heterogeneous data for social link prediction.  <br>
-  Fan Zhou, Bangying Wu,  Yi Yang, Goce Trajcevski, Kunpeng Zhang, and Ting Zhong. <br>
-  *International Conference on Information and Knowledge Management* (***CIKM***). 2018.<br>
-
-+ Improving Topic Model Stability for Effective Document Exploration. <br>
-  Yi Yang, Shimei Pan, Yangqiu Song, Jie Lu, Mercan Topkara.  <br>
-  *International Joint Conference on Artificial Intelligence* (***IJCAI***). 2016.<br>
-
-+ The Stability and Usability of Statistical Topic Models. <br>
-  Yi Yang, Shimei Pan, Jie Lu, Mercan Topkara and Yangqiu Song.  <br>
-  ***ACM Transactions on Interactive Intelligent Systems***. 2016.<br>
-
-+ Beating the artificial chaos: Fighting OSN spam using its own templates <br>
-  Tiantian Zhu, Hongyu Gao, Yi Yang, Kai Bu, Yan Chen, Doug Downey, Kathy Lee and Alok Choudhary. <br>
-  ***IEEE/ACM Transactions on Networking***. 2016 <br>
-
-+ Efficient Algorithm for Incorporating Knowledge into Topic Models.  <br>
-  Yi Yang, Doug Downey, Jordan Boyd-Graber. <br>
-  *Conference on Empirical Methods in Natural Language Processing* (***EMNLP***). Long Paper. 2015. <br>
-
-+ Efficient Methods for Inferring Large Sparse Topic Hierarchies  <br>
-  Doug Downey, Chandra Sekhar Bhagavatula,  Yi Yang. <br>
-  *Annual Meeting of the Association for Computational Linguistics* (***ACL***). Long Paper. 2015. <br>
-
-+ User-directed Non-disruptive Topic Model Update for Effective Exploration of Dynamic Content. <br>
-    Yi Yang, Shimei Pan, Yangqiu Song, Jie Lu, and Mercan Topkara.<br>
-   *International Conference on Intelligent User Interfaces* (***IUI***). 2015. <br>
-   &#9733;Honorable Mention Award.<br>
-  
-+ Incorporating User Input with Topic Modeling.  <br>
-  Yi Yang, Shimei Pan, Jie Lu, Mercan Topkara, and Doug Downey. <br>
-  *Workshop on Interactive Mining for Big Data*. 2014. <br>
-
-+ Spam ain’t as Diverse as It Seems: Throttling OSN Spam with Templates Underneath. <br>
-  Hongyu Gao,  Yi Yang, Kai Bu, Yan Chen, Doug Downey, Kathy Lee and Alok Choudhary. <br>
-  *Annual Computer Security Applications Conference* (***ACSAC***). 2014. <br>
-
-+ Active Learning with Constrained Topic Model.  <br>
-  Yi Yang, Shimei Pan, Doug Downey and Kunpeng Zhang. <br>
-  *Workshop on Interactive Language Learning, Visualization, and Interfaces*. 2014.<br>
-
-+ A Systematic Framework for Sentiment Identification by Modeling User Social Effects. <br>
-  Kunpeng Zhang,   Yi Yang, Aaron Sun, Hengchang Liu. <br>
-  *International Conference on Web Intelligence* (***WI***). 2014.<br>
-
-+ Incorporating Conditional Random Fields and Active Learning to Improve Sentiment Identification.  <br> Kunpeng Zhang, Yusheng Xie,  Yi Yang, Aaron Sun, Hengchang Liu, Alok Choudhary. <br>
-  ***Neural Networks Journal***. 2014.<br>
-
-+ Learning Representations for Weakly Supervised Natural Language Processing Tasks. <br>
-  Fei Huang, Arun Ahuja, Doug Downey,  Yi Yang, Yuhong Guo, and Alexander Yates. <br>
-  ***Computational Linguistics Journal***.  2014.<br>
-
-+ Overcoming the Memory Bottleneck in Distributed Training of Latent Variable Models of Text.  <br>
-  Yi Yang, Doug Downey and Alexander Yates. <br>
-  *Annual Conference of the North American Chapter of the Association for Computational Linguistics* (***NAACL***). Short Paper. 2013.

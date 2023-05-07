@@ -6,18 +6,19 @@ title: research
 ## Yi Yang | Students
 
 * * *
-<br>
-**Current Students**
-+ Yingpeng Zhu (PhD student, HKUST ISOM, Since 2017 Fall)
 
+**Current Students and RA**
 + Yue Guo (PhD student, Co-supervised with Prof. Yangqiu Song, CSE, Since 2020 Fall)
 
 + Jiaxin Liu (PhD student, Co-supervised with Prof. Kar Yan Tam, ISOM, Since 2021 Spring)
   
 + Hanyu Duan (PhD student, Co-supervised with Prof. Kar Yan Tam, ISOM, Since 2020 Fall)
 
-**RAs**
-+ Zhuoyi Peng (Since Spring 2022)
++ Zhuoyi Peng (RA, Since Spring 2022)
+
+
+**PhD Alumni**
++ Dr. Yingpeng Zhu (Assistant Professor, University of Macau, 2023)
 
 
 **Past Students and RAs** 
