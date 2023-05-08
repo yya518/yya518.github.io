@@ -19,6 +19,6 @@ layout: default
 </span>
 
 
-<span style="color:red;">&#9733; RA Positions Available in NLP and Machine Learning. Please email me your CV if interested.<br>
+<span style="color:red;">&#9733; Postdoc, PhD and RA Positions Available in NLP and Machine Learning. Please email me your CV if interested.<br>
 </span>
 
