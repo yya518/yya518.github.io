@@ -15,8 +15,8 @@ layout: default
 
 <span style="font-size:24px;">I interned at IBM T.J.Watson Research and Amazon AWS. </span><br>
 
-<span style="font-size:24px;">I have been consulting for a leading hedge fund firm on financial NLP topics since 2021.<br>
-</span>
+<!--<span style="font-size:24px;">I have been consulting for a leading hedge fund firm on financial NLP topics since 2021.<br>
+</span>-->
 
 
 <span style="color:red;">&#9733; Postdoc, PhD and RA Positions Available in NLP and Machine Learning. Please email me your CV if interested.<br>
