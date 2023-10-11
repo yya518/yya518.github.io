@@ -11,26 +11,44 @@ title: research
 <span style="font-size:24px;"> My research on business analytics and NLP is published in major business-discipline journals and major NLP/AI conferences and journals.</span>
 
 {% include publication-buttons.html %}
++ [InvestLM: A Large Language Model for Investment using Financial Domain Instruction Tuning](https://arxiv.org/abs/2309.13064).
+Yi Yang, Yixuan Tang, Kar Yan Tam.
+{: .nlp}
 
-+ Causal-Debias: Unifying Debiasing in Pretrained Language Models and Fine-tuning via Causal Invariant Learning.  
++ Predict the Future from the Past? On the Temporal Data Distribution Shift in Financial Sentiment Classifications. 
+Yue Guo, Chenxi Hu, Yi Yang.
+*Conference on Empirical Methods in Natural Language Processing* (***EMNLP***). Long Paper. 2023.
+{: .nlp}
+
++ Is ChatGPT a Financial Expert? Evaluating Language Models on Financial Natural Language Processing.
+Yue Guo, Zian Xu, Yi Yang.
+*Findings of Conference on Empirical Methods in Natural Language Processing* (***EMNLP Findings***). Short Paper. 2023.
+{: .nlp}
+
++ FinEntity: Entity-level Sentiment Classification for Financial Texts.
+Yixuan Tang, Yi Yang, Allen H Huang, Andy Tam, Justin Tang.  
+*Conference on Empirical Methods in Natural Language Processing* (***EMNLP***). Short Paper. 2023.
+{: .nlp}
+
++ [Causal-Debias: Unifying Debiasing in Pretrained Language Models and Fine-tuning via Causal Invariant Learning](https://aclanthology.org/2023.acl-long.232/).  
 Fan Zhou, Yuzhou Mao, Liu Yu, Yi Yang and Ting Zhong.  
 *Annual Meeting of the Association for Computational Linguistics* (***ACL***). Long Paper. 2023.
 {: .nlp}
 
-+ Extracting Actionable Insights from Text Data: A Stable Topic Model Approach.  
++ [Extracting Actionable Insights from Text Data: A Stable Topic Model Approach](https://misq.umn.edu/extracting-actionable-insights-from-text-data-a-stable-topic-model-approach.html).  
 Yi Yang and Ramanath Subramanyam.      
-***MIS Quarterly***. Forthcoming.    
+***MIS Quarterly***, 47, no. 3 (2023).
 {: .business}
 
 + [Unlocking the Power of Voice for Financial Risk Prediction: A Theory-Driven Deep Learning Design Approach](https://misq.umn.edu/unlocking-the-power-of-voice-for-financial-risk-prediction-a-theory-driven-deep-learning-design-approach.html).  
 Yi Yang, Yu Qin, Yangyang Fan and Zhongju Zhang.  
- ***MIS Quarterly***. 2023.  
+ ***MIS Quarterly***, 47, no. 1 (2023).  
 {: .business}
 
 
 + [BARLE: Background-Aware Representation Learning for Background Shift Out-of-Distribution Detection](https://aclanthology.org/2022.findings-emnlp.53/).  
 Hanyu Duan, Yi Yang, Ahmed Abbasi, Kar Yan Tam.  
-*Findings of Conference on Empirical Methods in Natural Language Processing* (***Findings of EMNLP***). Long Paper. 2022. 
+*Findings of Conference on Empirical Methods in Natural Language Processing* (***EMNLP Findings***). Long Paper. 2022. 
 {: .nlp}
 
 + [Federated Meta Embedding Concept Stock Recommendation](https://ieeexplore.ieee.org/document/9919348/).  
@@ -40,12 +58,12 @@ Zhuoyi Peng, Yi Yang, Liu Yang and Kai Chen.
 
 + [FinBERT—A Large Language Model for Extracting Information from Financial Text](https://onlinelibrary.wiley.com/doi/full/10.1111/1911-3846.12832).   
 Allen Huang, Hui Wang and Yi Yang.   
-***Contemporary Accounting Research***. 2022. 
+***Contemporary Accounting Research*** 40, no. 2 (2023): 806-841.
 {: .business}
 
 + [sDTM: A Supervised Bayesian Deep Topic Model for Text Analytics](https://pubsonline.informs.org/doi/full/10.1287/isre.2022.1124).  
 Yi Yang, Kunpeng Zhang and Yangyang Fan.  
-***Information Systems Research***. 2022.
+***Information Systems Research*** 34, no. 1 (2023): 137-156.
 {: .business}
 
 + [Benchmarking Intersectional Biases in NLP](https://aclanthology.org/2022.naacl-main.263.pdf).  

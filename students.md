@@ -8,13 +8,19 @@ title: research
 * * *
 
 **Current Students and RA**
-+ Yue Guo (PhD student, Co-supervised with Prof. Yangqiu Song, CSE, Since 2020 Fall)
++ Yue Guo (PhD student, Co-supervised with Prof. Yangqiu Song, CSE, 2020 Fall - Present)
 
-+ Jiaxin Liu (PhD student, Co-supervised with Prof. Kar Yan Tam, ISOM, Since 2021 Spring)
++ Jiaxin Liu (PhD student, Co-supervised with Prof. Kar Yan Tam, ISOM, 2021 Spring - Present)
   
-+ Hanyu Duan (PhD student, Co-supervised with Prof. Kar Yan Tam, ISOM, Since 2020 Fall)
++ Hanyu Duan (PhD student, Co-supervised with Prof. Kar Yan Tam, ISOM, 2022 Fall - Present)
 
-+ Zhuoyi Peng (RA, Since Spring 2022)
++ Zhuoyi Peng (PhD student, 2023 Fall - Present)
+
++ Yixuan Tang (RA, 2023 Summer - Present)
+
++ Jiaqi Li (RA, 2023 Fall - Present)
+
++ Xiaoping Shen (RA, 2023 Fall - Present)
 
 
 **PhD Alumni**
