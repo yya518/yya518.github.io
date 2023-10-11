@@ -11,21 +11,21 @@ title: research
 <span style="font-size:24px;"> My research on business analytics and NLP is published in major business-discipline journals and major NLP/AI conferences and journals.</span>
 
 {% include publication-buttons.html %}
-+ [InvestLM: A Large Language Model for Investment using Financial Domain Instruction Tuning](https://arxiv.org/abs/2309.13064).
-Yi Yang, Yixuan Tang, Kar Yan Tam.
++ [InvestLM: A Large Language Model for Investment using Financial Domain Instruction Tuning](https://arxiv.org/abs/2309.13064).  
+Yi Yang, Yixuan Tang, Kar Yan Tam.  
 {: .nlp}
 
-+ Predict the Future from the Past? On the Temporal Data Distribution Shift in Financial Sentiment Classifications. 
-Yue Guo, Chenxi Hu, Yi Yang.
++ Predict the Future from the Past? On the Temporal Data Distribution Shift in Financial Sentiment Classifications.   
+Yue Guo, Chenxi Hu, Yi Yang.  
 *Conference on Empirical Methods in Natural Language Processing* (***EMNLP***). Long Paper. 2023.
 {: .nlp}
 
-+ Is ChatGPT a Financial Expert? Evaluating Language Models on Financial Natural Language Processing.
-Yue Guo, Zian Xu, Yi Yang.
++ Is ChatGPT a Financial Expert? Evaluating Language Models on Financial Natural Language Processing.  
+Yue Guo, Zian Xu, Yi Yang.  
 *Findings of Conference on Empirical Methods in Natural Language Processing* (***EMNLP Findings***). Short Paper. 2023.
 {: .nlp}
 
-+ FinEntity: Entity-level Sentiment Classification for Financial Texts.
++ FinEntity: Entity-level Sentiment Classification for Financial Texts.  
 Yixuan Tang, Yi Yang, Allen H Huang, Andy Tam, Justin Tang.  
 *Conference on Empirical Methods in Natural Language Processing* (***EMNLP***). Short Paper. 2023.
 {: .nlp}
@@ -207,21 +207,20 @@ Fei Huang, Arun Ahuja, Doug Downey,  Yi Yang, Yuhong Guo, and Alexander Yates.
 + [Overcoming the Memory Bottleneck in Distributed Training of Latent Variable Models of Text](https://aclanthology.org/N13-1065.pdf).     
   Yi Yang, Doug Downey and Alexander Yates.  
   *Annual Conference of the North American Chapter of the Association for Computational Linguistics* (***NAACL***). Short Paper. 2013.  
-{: .nlp}
+  {: .nlp}
 
 <!---
 + **New Conference Paper Title**  
   Author Names  
   Year  
   Conference Name
-{: .conference}
+  {: .conference}
 
 
 <span style="color:#39c;">**Business-discipline Journals:**  </span>
 <span style="color:#39c;">**NLP/AI Conferences and Journals:**  </span>
 
 -->
-
 
 
 
