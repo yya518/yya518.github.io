@@ -11,21 +11,26 @@ title: research
 <span style="font-size:24px;"> My research on business analytics and NLP is published in major business-discipline journals and major NLP/AI conferences and journals.</span>
 
 {% include publication-buttons.html %}
++ TM-OKC: An Unsupervised Topic Model for Text in Online Knowledge Communities.  
+Dongcheng Zhang, Kunpeng Zhang, Yi Yang, and David Schweidel.  
+***MIS Quarterly***, Accepted.
+{: .business}
+
 + [InvestLM: A Large Language Model for Investment using Financial Domain Instruction Tuning](https://arxiv.org/abs/2309.13064).  
 Yi Yang, Yixuan Tang, Kar Yan Tam.  
 {: .nlp}
 
-+ Predict the Future from the Past? On the Temporal Data Distribution Shift in Financial Sentiment Classifications.   
++ [Predict the Future from the Past? On the Temporal Data Distribution Shift in Financial Sentiment Classifications](https://arxiv.org/abs/2310.12620v1).  
 Yue Guo, Chenxi Hu, Yi Yang.  
 *Conference on Empirical Methods in Natural Language Processing* (***EMNLP***). Long Paper. 2023.
 {: .nlp}
 
-+ Is ChatGPT a Financial Expert? Evaluating Language Models on Financial Natural Language Processing.  
++ [Is ChatGPT a Financial Expert? Evaluating Language Models on Financial Natural Language Processing](https://arxiv.org/abs/2310.12664).  
 Yue Guo, Zian Xu, Yi Yang.  
 *Findings of Conference on Empirical Methods in Natural Language Processing* (***EMNLP Findings***). Short Paper. 2023.
 {: .nlp}
 
-+ FinEntity: Entity-level Sentiment Classification for Financial Texts.  
++ [FinEntity: Entity-level Sentiment Classification for Financial Texts](https://arxiv.org/abs/2310.12406).  
 Yixuan Tang, Yi Yang, Allen H Huang, Andy Tam, Justin Tang.  
 *Conference on Empirical Methods in Natural Language Processing* (***EMNLP***). Short Paper. 2023.
 {: .nlp}
@@ -205,9 +210,10 @@ Fei Huang, Arun Ahuja, Doug Downey,  Yi Yang, Yuhong Guo, and Alexander Yates.
 {: .nlp}
 
 + [Overcoming the Memory Bottleneck in Distributed Training of Latent Variable Models of Text](https://aclanthology.org/N13-1065.pdf).     
-  Yi Yang, Doug Downey and Alexander Yates.  
-  *Annual Conference of the North American Chapter of the Association for Computational Linguistics* (***NAACL***). Short Paper. 2013.  
-  {: .nlp}
+Yi Yang, Doug Downey and Alexander Yates.  
+*Annual Conference of the North American Chapter of the Association for Computational Linguistics* (***NAACL***). Short Paper. 2013.  
+{: .nlp}
+
 
 <!---
 + **New Conference Paper Title**  
