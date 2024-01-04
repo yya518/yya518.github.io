@@ -11,6 +11,11 @@ title: research
 <span style="font-size:24px;"> My research on business analytics and NLP is published in major business-discipline journals and major NLP/AI conferences and journals.</span>
 
 {% include publication-buttons.html %}
++ Should Fairness be a Metric or a Model? A Model-based Framework for Assessing Bias in Machine Learning.  
+John Lalor, Ahmed Abbasi, Kezia Oketch, Yi Yang, Nicole Forsgren.  
+***Transactions of Information Systems (TOIS)***, Accepted.
+{: .nlp}
+
 + TM-OKC: An Unsupervised Topic Model for Text in Online Knowledge Communities.  
 Dongcheng Zhang, Kunpeng Zhang, Yi Yang, and David Schweidel.  
 ***MIS Quarterly***, Accepted.
