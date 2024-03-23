@@ -11,9 +11,19 @@ title: research
 <span style="font-size:24px;"> My research on business analytics and NLP is published in major business-discipline journals and major NLP/AI conferences and journals.</span>
 
 {% include publication-buttons.html %}
++ Beyond Surface Similarity: Detecting Subtle Semantic Shifts in Financial Narratives.  
+Jiaxin Liu, Yi Yang, Kar Yan Tam.  
+*Findings of Annual Conference of the North American Chapter of the Association for Computational Linguistics* (***NAACL Findings***). Long Paper. 2024.   
+{: .nlp}
+
++ Connecting the Dots: Inferring Patent Phrase Similarity with Retrieved Phrase Graphs.  
+Zhuoyi Peng, Yi Yang.  
+*Findings of Annual Conference of the North American Chapter of the Association for Computational Linguistics* (***NAACL Findings***). Long Paper. 2024.   
+{: .nlp}
+
 + Should Fairness be a Metric or a Model? A Model-based Framework for Assessing Bias in Machine Learning.  
 John Lalor, Ahmed Abbasi, Kezia Oketch, Yi Yang, Nicole Forsgren.  
-***Transactions of Information Systems (TOIS)***, Accepted.
+***Transactions of Information Systems (TOIS)***, 2024.   
 {: .nlp}
 
 + TM-OKC: An Unsupervised Topic Model for Text in Online Knowledge Communities.  
