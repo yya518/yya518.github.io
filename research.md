@@ -11,7 +11,7 @@ title: research
 <span style="font-size:24px;"> My research on business analytics and NLP is published in major business-discipline journals and major NLP/AI conferences and journals.</span>
 
 {% include publication-buttons.html %}
-+ Beyond Surface Similarity: Detecting Subtle Semantic Shifts in Financial Narratives.  
++ [Beyond Surface Similarity: Detecting Subtle Semantic Shifts in Financial Narratives](https://arxiv.org/abs/2403.14341).  
 Jiaxin Liu, Yi Yang, Kar Yan Tam.  
 *Findings of Annual Conference of the North American Chapter of the Association for Computational Linguistics* (***NAACL Findings***). Long Paper. 2024.   
 {: .nlp}
@@ -21,7 +21,7 @@ Zhuoyi Peng, Yi Yang.
 *Findings of Annual Conference of the North American Chapter of the Association for Computational Linguistics* (***NAACL Findings***). Long Paper. 2024.   
 {: .nlp}
 
-+ Should Fairness be a Metric or a Model? A Model-based Framework for Assessing Bias in Machine Learning.  
++ [Should Fairness be a Metric or a Model? A Model-based Framework for Assessing Bias in Machine Learning](https://dl.acm.org/doi/10.1145/3641276).  
 John Lalor, Ahmed Abbasi, Kezia Oketch, Yi Yang, Nicole Forsgren.  
 ***Transactions of Information Systems (TOIS)***, 2024.   
 {: .nlp}
