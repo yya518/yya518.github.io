@@ -11,6 +11,12 @@ title: research
 <span style="font-size:24px;"> My research on business analytics and NLP is published in major business-discipline journals and major NLP/AI conferences and journals.</span>
 
 {% include publication-buttons.html %}
+
++ EconNLI: Evaluating Large Language Models on Economics Reasoning.   
+Yue Guo, Yi Yang.    
+*Findings of Annual Meeting of the Association for Computational Linguistics* (***ACL Findings***). Long Paper. 2024.    
+{: .nlp}
+
 + [Beyond Surface Similarity: Detecting Subtle Semantic Shifts in Financial Narratives](https://arxiv.org/abs/2403.14341).  
 Jiaxin Liu, Yi Yang, Kar Yan Tam.  
 *Findings of Annual Conference of the North American Chapter of the Association for Computational Linguistics* (***NAACL Findings***). Long Paper. 2024.   
