@@ -29,7 +29,7 @@ Zhuoyi Peng, Yi Yang.
 
 + [Should Fairness be a Metric or a Model? A Model-based Framework for Assessing Bias in Machine Learning](https://dl.acm.org/doi/10.1145/3641276).  
 John Lalor, Ahmed Abbasi, Kezia Oketch, Yi Yang, Nicole Forsgren.  
-***Transactions of Information Systems (TOIS)***, 2024.   
+***ACM Transactions on Information Systems (TOIS)***, 2024.   
 {: .nlp}
 
 + TM-OKC: An Unsupervised Topic Model for Text in Online Knowledge Communities.  
