@@ -18,21 +18,21 @@ title: research
 
 + Yixuan Tang (RA, 2023 Summer - Present)
 
-+ Jiaqi Li (RA, 2023 Fall - Present)
-
-+ Xiaoping Shen (RA, 2023 Fall - Present)
-
-
 **PhD Alumni**
 + Dr. Yingpeng Zhu (Assistant Professor, University of Macau, 2023)
 
 
 **Past Students and RAs** 
+
++ Jiaqi Li (RA, 2023 - 2024)
+
 + Xinyi Wang (UG Student, HKUST Math -> UCSB, CS PhD, 2018 - 2020)
 
 + Yu Qin (UG Intern, Renmin University of China -> University Of Utah, ISOM PhD, 2018 Summer)
 
 + Siddhartha Datta (UG Student, HKUST Business -> Oxford, CS PhD, 2019 Summer)
+
++ Cheng Yu Chuang (UG Student, HKUST -> Goldmans Sachs, 2021 Fall)
 
 + Mark Christopher Siy UY (UG RA, HKUST CSE -> J.P. Morgan, 2019 Summer)
 
@@ -42,10 +42,6 @@ title: research
 
 + Weixuan Dong (PG Student, HKUST Big Data Technology, 2021 Summer)
 
-+ Luke Chen (RA, 2021 Winter -> CUHK PhD)
-
-+ Cheng Yu Chuang (UG Student, HKUST, 2021 Fall)
++ Luke Chen (RA, HKUST -> CUHK PhD, 2021 Winter)
 
 + Zihan Meng (MPhil student, GZ Campus, Co-supervised with Prof. Qiong Luo, CSE, 2020 - 2022)
-
-
