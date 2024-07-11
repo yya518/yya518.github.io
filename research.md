@@ -11,6 +11,10 @@ title: research
 <span style="font-size:24px;"> My research on business analytics and NLP is published in major business-discipline journals and major NLP/AI conferences and journals.</span>
 
 {% include publication-buttons.html %}
++ MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries.     
+Yixuan Tang, Yi Yang.      
+*Conference on Language Modeling* (***COLM***). 2024.     
+{: .nlp}
 
 + EconNLI: Evaluating Large Language Models on Economics Reasoning.   
 Yue Guo, Yi Yang.    
