@@ -24,8 +24,12 @@ My research is supported by the following grants:
 
 + University Initial Grant (HK $100,000), HKUST, 2017
 
+**Co-PI**
+
++ Theme-based Research Scheme, Strengthening Hong Kong as a Global Financial Center by Enhancing the Overall Regtech Capacity of the Industry and Facilitating the Regulation and Infrastructure Design of CBDC and Digital Assets in Hong Kong, Hong Kong Research Grants Council, 2024
+
+
 **Co-I**
 
-+ Theme-based Research Scheme, Hong Kong Research Grants Council, 2018-2022
++ Theme-based Research Scheme, Contributing to the Development of Hong Kong into a Global Fintech Hub, Hong Kong Research Grants Council, 2018-2022
 
-+ National Natural Science Foundation of China, 2020-2023
