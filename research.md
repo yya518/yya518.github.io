@@ -11,6 +11,11 @@ title: research
 <span style="font-size:24px;"> My research on business analytics and NLP is published in major business-discipline journals and major NLP/AI conferences and journals.</span>
 
 {% include publication-buttons.html %}
++ Exploring the Relationship between In-Context Learning and Instruction Tuning.    
+Hanyu Duan, Yixuan Tang, Yi Yang, Ahmed Abbasi, Kar Yan Tam.        
+*Findings of Conference on Empirical Methods in Natural Language Processing* (***EMNLP Findings***). Long Paper. 2024.   
+{: .nlp}
+
 + MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries.     
 Yixuan Tang, Yi Yang.      
 *Conference on Language Modeling* (***COLM***). 2024.     
