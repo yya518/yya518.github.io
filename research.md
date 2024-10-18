@@ -11,6 +11,11 @@ title: research
 <span style="font-size:24px;"> My research on business analytics and NLP is published in major business-discipline journals and major NLP/AI conferences and journals.</span>
 
 {% include publication-buttons.html %}
++ Hierarchical Deep Document Model.    
+Yi Yang, John Lalor, Ahmed Abbasi, Daniel Zeng.    
+*Transactions on Knowledge and Data Engineering* (***TKDE***). 2024.     
+{: .nlp}
+
 + Exploring the Relationship between In-Context Learning and Instruction Tuning.    
 Hanyu Duan, Yixuan Tang, Yi Yang, Ahmed Abbasi, Kar Yan Tam.        
 *Findings of Conference on Empirical Methods in Natural Language Processing* (***EMNLP Findings***). Long Paper. 2024.   
