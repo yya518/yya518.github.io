@@ -11,6 +11,11 @@ title: research
 <span style="font-size:24px;"> My research on business analytics and NLP is published in major business-discipline journals and major NLP/AI conferences and journals.</span>
 
 {% include publication-buttons.html %}
++ Efficient Multi-Expert Tabular Language Model for Banking.    
+Yue Guo, Wentao Zhang, Xiaojun Zhang, Vincent W Zheng, Yi Yang.    
+*SIGKDD Conference on Knowledge Discovery and Data Mining - Applied Data Science Track* (***KDD***). 2025.     
+{: .nlp}
+
 + Hierarchical Deep Document Model.    
 Yi Yang, John Lalor, Ahmed Abbasi, Daniel Zeng.    
 *Transactions on Knowledge and Data Engineering* (***TKDE***). 2024.     
