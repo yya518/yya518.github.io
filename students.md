@@ -16,7 +16,17 @@ title: research
 
 + Zhuoyi Peng (PhD student, 2023 Fall - Present)
 
-+ Yixuan Tang (RA, 2023 Summer - Present)
++ Yixuan Tang (MPhil student, 2024 Fall - Present)
+
++ Zhihao Zhu (Visiting student, 2023 Summer - Present)
+
++ Jiale Han (Postdoc, 2024 Summer - Present)
+
++ Yubai Wei (RA, 2024 Summer - Present)
+
++ Hongyi Tang (RA, 2024 Summer - Present)
+
++ Jinchen Liu (RA, 2024 Fall - Present)
 
 **PhD Alumni**
 + Dr. Yingpeng Zhu (Assistant Professor, University of Macau, 2023)
