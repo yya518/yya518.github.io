@@ -53,7 +53,7 @@ John Lalor, Ahmed Abbasi, Kezia Oketch, Yi Yang, Nicole Forsgren.
 
 + TM-OKC: An Unsupervised Topic Model for Text in Online Knowledge Communities.  
 Dongcheng Zhang, Kunpeng Zhang, Yi Yang, and David Schweidel.  
-***MIS Quarterly***, Accepted.
+***MIS Quarterly***, 48, no. 3 (2024): 931-978.
 {: .business}
 
 + [InvestLM: A Large Language Model for Investment using Financial Domain Instruction Tuning](https://arxiv.org/abs/2309.13064).  
@@ -109,6 +109,11 @@ Allen Huang, Hui Wang and Yi Yang.
 + [sDTM: A Supervised Bayesian Deep Topic Model for Text Analytics](https://pubsonline.informs.org/doi/full/10.1287/isre.2022.1124).  
 Yi Yang, Kunpeng Zhang and Yangyang Fan.  
 ***Information Systems Research*** 34, no. 1 (2023): 137-156.
+{: .business}
+
++ [Unlocking Deeper Insights into Customer Engagement Through AI-Powered Analysis of Social Media Data](https://journals.sagepub.com/doi/pdf/10.1177/2694105820230301019).  
+P.K. Kannan, Yi Yang and Kunpeng Zhang.  
+***Management and Business Review*** 3 (1-2), 108-115.
 {: .business}
 
 + [Benchmarking Intersectional Biases in NLP](https://aclanthology.org/2022.naacl-main.263.pdf).  
