@@ -11,6 +11,16 @@ title: research
 <span style="font-size:24px;"> My research on business analytics and NLP is published in major business-discipline journals and major NLP/AI conferences and journals.</span>
 
 {% include publication-buttons.html %}
++ TDDBench: A Benchmark for Training data detection.    
+Zhihao Zhu, Yi Yang, Defu Lian.    
+*International Conference on Learning Representations* (***ICLR***). 2025.    
+{: .nlp}
+
++ Adversarial Mixup Unlearning.    
+Zhuoyi Peng, Yixuan Tang, Yi Yang.    
+*International Conference on Learning Representations* (***ICLR***). 2025.    
+{: .nlp}
+
 + Efficient Multi-Expert Tabular Language Model for Banking.    
 Yue Guo, Wentao Zhang, Xiaojun Zhang, Vincent W Zheng, Yi Yang.    
 *SIGKDD Conference on Knowledge Discovery and Data Mining - Applied Data Science Track* (***KDD***). 2025.     
