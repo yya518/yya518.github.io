@@ -27,7 +27,7 @@ title: research
 + Jinchen Liu (RA, 2024 Fall - Present)
 
 **PhD Alumni**
-+ Dr. Yue Guo (AI Engineer, Tencent, 2024, PhD #2)
++ Dr. Yue Guo (Applied Research Engineer, Tencent, 2024, PhD #2)
 
 + Dr. Yingpeng Zhu (Assistant Professor, University of Macau, 2023, PhD #1)
 
