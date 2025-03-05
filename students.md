@@ -8,15 +8,13 @@ title: research
 * * *
 
 **Current Students and RA**
-+ Yue Guo (PhD student, Co-supervised with Prof. Yangqiu Song, CSE, 2020 Fall - Present)
-
 + Jiaxin Liu (PhD student, Co-supervised with Prof. Kar Yan Tam, ISOM, 2021 Spring - Present)
   
 + Hanyu Duan (PhD student, Co-supervised with Prof. Kar Yan Tam, ISOM, 2022 Fall - Present)
 
 + Zhuoyi Peng (PhD student, 2023 Fall - Present)
 
-+ Yixuan Tang (MPhil student, 2024 Fall - Present)
++ Yixuan Tang (PhD student, 2024 Fall - Present)
 
 + Zhihao Zhu (Visiting student, 2023 Summer - Present)
 
@@ -29,7 +27,9 @@ title: research
 + Jinchen Liu (RA, 2024 Fall - Present)
 
 **PhD Alumni**
-+ Dr. Yingpeng Zhu (Assistant Professor, University of Macau, 2023)
++ Dr. Yue Guo (AI Engineer, Tencent, 2024, PhD #2)
+
++ Dr. Yingpeng Zhu (Assistant Professor, University of Macau, 2023, PhD #1)
 
 
 **Past Students and RAs** 

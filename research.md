@@ -11,7 +11,13 @@ title: research
 <span style="font-size:24px;"> My research on business analytics and NLP is published in major business-discipline journals and major NLP/AI conferences and journals.</span>
 
 {% include publication-buttons.html %}
-+ TDDBench: A Benchmark for Training data detection.    
++ Predicting Practically? Domain Generalization for Predictive Analytics in Real-world Environments.     
+Hanyu Duan, Yi Yang, Ahmed Abbasi, Kar Yan Tam.     
+*Under 3rd Round Review at Information Systems Research*.     
+{: .business}
+
+
++ TDDBench: A Benchmark for Training Data Detection.    
 Zhihao Zhu, Yi Yang, Defu Lian.    
 *International Conference on Learning Representations* (***ICLR***). 2025.    
 {: .nlp}
