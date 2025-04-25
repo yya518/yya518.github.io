@@ -2,6 +2,7 @@ $(document).ready(function() {
   // Function to show all papers
   function showAll() {
     $(".business, .nlp").show();
+    $(".working").hide();
   }
 
   // Function to show journal papers only
