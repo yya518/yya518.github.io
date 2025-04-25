@@ -8,7 +8,8 @@ title: grant
 * * *
 
 <br>
-My research is supported by the following grants:
+
+My research has been generously supported by funding from the Hong Kong Research Grants Council, HKUST, WeBank, Kaisa Group, and HSBC Hong Kong. Below is a list of grants for which I serve as the Principal Investigator (PI), Co-Principal Investigator (Co-PI), or Co-Investigator (Co-I).
 
 **PI** 
 
@@ -34,4 +35,6 @@ My research is supported by the following grants:
 **Co-I**
 
 + Theme-based Research Scheme, Hong Kong Research Grants Council, *Contributing to the Development of Hong Kong into a Global Fintech Hub*, 2018-2022
+
+
 

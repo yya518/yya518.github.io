@@ -21,7 +21,7 @@ title: teaching
 
 + ISOM5270 (Msc in Accounting): Big Data Analytics. [Spring 2022, Spring 2023, Spring 2024]
 
-&#9733;I am nominated by School for **The Franklin Prize for Teaching Excellence** for Year 2018, Year 2021 and Year 2023.
+&#9733;I am the finalist for **The Franklin Prize for Teaching Excellence** for Year 2018, Year 2021, Year 2023 and Year 2024.
 <br><br><br>
 
 

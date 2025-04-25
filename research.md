@@ -10,12 +10,18 @@ title: research
 
 <span style="font-size:24px;"> My research on business analytics and NLP is published in major business-discipline journals and major NLP/AI conferences and journals.</span>
 
+[Google Scholar](https://scholar.google.com/citations?user=Prh_dHkAAAAJ)
+
 {% include publication-buttons.html %}
 + Predicting Practically? Domain Generalization for Predictive Analytics in Real-world Environments.     
 Hanyu Duan, Yi Yang, Ahmed Abbasi, Kar Yan Tam.     
 *Under 3rd Round Review at Information Systems Research*.     
-{: .business}
+{: .working}
 
++ Divide-and-Contrast: A Text-based Method for Firm Market Risk Prediction.    
+Yi He, Yi Yang, Defu Lian, Kunpeng Zhang.    
+***INFORMS Journal on Computing***. 2025.    
+{: .business}
 
 + TDDBench: A Benchmark for Training Data Detection.    
 Zhihao Zhu, Yi Yang, Defu Lian.    
