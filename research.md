@@ -8,20 +8,21 @@ title: research
 
 * * *
 
-<span style="font-size:24px;"> My research on business analytics and NLP is published in major business-discipline journals and major NLP/AI conferences and journals.</span>
+<span style="font-size:24px;"> My research on business analytics and NLP is published in major business-discipline journals and major NLP/AI conferences and journals.
 
 [Google Scholar](https://scholar.google.com/citations?user=Prh_dHkAAAAJ)
+</span>
 
 {% include publication-buttons.html %}
++ Bias A-head? Analyzing Bias in Transformer-Based Language Model Attention Heads.    
+Hanyu Duan, Yi Yang, Ahmed Abbasi, John P. Lalor, Kar Yan Tam.    
+*Fifth Workshop on Trustworthy Natural Language Processing* (***TrustNLP***). 2025.    
+{: .nlp}
+
 + Predicting Practically? Domain Generalization for Predictive Analytics in Real-world Environments.     
 Hanyu Duan, Yi Yang, Ahmed Abbasi, Kar Yan Tam.     
-*Under 3rd Round Review at Information Systems Research*.     
+*Revision at Information Systems Research*.     
 {: .working}
-
-+ Divide-and-Contrast: A Text-based Method for Firm Market Risk Prediction.    
-Yi He, Yi Yang, Defu Lian, Kunpeng Zhang.    
-***INFORMS Journal on Computing***. 2025.    
-{: .business}
 
 + TDDBench: A Benchmark for Training Data Detection.    
 Zhihao Zhu, Yi Yang, Defu Lian.    
@@ -32,6 +33,11 @@ Zhihao Zhu, Yi Yang, Defu Lian.
 Zhuoyi Peng, Yixuan Tang, Yi Yang.    
 *International Conference on Learning Representations* (***ICLR***). 2025.    
 {: .nlp}
+
++ Divide-and-Contrast: A Text-based Method for Firm Market Risk Prediction.    
+Yi He, Yi Yang, Defu Lian, Kunpeng Zhang.    
+***INFORMS Journal on Computing***. 2025.    
+{: .business}
 
 + Efficient Multi-Expert Tabular Language Model for Banking.    
 Yue Guo, Wentao Zhang, Xiaojun Zhang, Vincent W Zheng, Yi Yang.    

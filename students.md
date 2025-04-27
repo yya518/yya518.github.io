@@ -9,12 +9,18 @@ title: research
 
 **Current Students and RA**
 
-+ Hanyu Duan (PhD student, Co-supervised with Prof. Kar Yan Tam, ISOM, 2022 Fall - Present)
++ Hanyu Duan (PhD student, Co-supervised with Prof. Kar Yan Tam, ISOM, 2022 Fall - Present)   
+
 + Zhuoyi Peng (PhD student, 2023 Fall - Present)
+
 + Yixuan Tang (PhD student, 2024 Fall - Present)
+
 + Zhihao Zhu (Visiting student, 2023 Summer - Present)
+
 + Jiale Han (Postdoc, 2024 Summer - Present)
+
 + Yubai Wei (RA, 2024 Summer - Present)
+
 + Hongyi Tang (RA, 2024 Summer - Present)
 
 **PhD Alumni**
