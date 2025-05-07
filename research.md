@@ -10,7 +10,7 @@ title: research
 
 <span style="font-size:24px;"> My research on business analytics and NLP is published in major business-discipline journals and major NLP/AI conferences and journals.</span>
 
-<span>
+<span style="font-size:24px;">
 [Google Scholar](https://scholar.google.com/citations?user=Prh_dHkAAAAJ)
 </span>
 
@@ -22,7 +22,22 @@ Hanyu Duan, Yi Yang, Ahmed Abbasi, John P. Lalor, Kar Yan Tam.
 
 + Predicting Practically? Domain Generalization for Predictive Analytics in Real-world Environments.     
 Hanyu Duan, Yi Yang, Ahmed Abbasi, Kar Yan Tam.     
-*Revision at Information Systems Research*.     
+*Major Revision*.     
+{: .working}
+
++ Forget Me If You Can: Auditing User Data Revocation in Recommendation Systems.     
+Zhihao Zhu, Yi Yang, Jin Chen, Yangyang Fan, Defu Lian.     
+*Major Revision*.     
+{: .working}
+
++ Reading Between the Lines: A Text-based Deep Learning Approach for Understanding Company Dynamics.     
+Hanyu Duan, Yi Yang, Kar Yan Tam.     
+*Major Revision*.     
+{: .working}
+
++ Hypergraph Modeling of Supply Chains: Unveiling the Impact of High-Order and Temporal Dynamics on Credit Risk Prediction.    
+Jialei Han, Yi Yang, Yangyang Fan, Zhongju Zhang.     
+*Under Review*     
 {: .working}
 
 + TDDBench: A Benchmark for Training Data Detection.    
@@ -245,7 +260,7 @@ Tiantian Zhu, Hongyu Gao, Yi Yang, Kai Bu, Yan Chen, Doug Downey, Kathy Lee and 
 ***IEEE/ACM Transactions on Networking***. 2016 
 {: .nlp}
 
-+ (Efficient Algorithm for Incorporating Knowledge into Topic Models](https://aclanthology.org/D15-1037.pdf).  
++ [Efficient Algorithm for Incorporating Knowledge into Topic Models](https://aclanthology.org/D15-1037.pdf).  
 Yi Yang, Doug Downey, Jordan Boyd-Graber.  
 *Conference on Empirical Methods in Natural Language Processing* (***EMNLP***). Long Paper. 2015.  
 {: .nlp}

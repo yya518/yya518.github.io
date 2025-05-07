@@ -9,7 +9,7 @@ title: research
 
 **Current Students and RA**
 
-+ Hanyu Duan (PhD student, Co-supervised with Prof. Kar Yan Tam, ISOM, 2022 Fall - Present)   
++ Hanyu Duan (PhD student, Co-supervised with Prof. Kar Yan Tam, ISOM, 2021 Fall - Present)   
 
 + Zhuoyi Peng (PhD student, 2023 Fall - Present)
 
@@ -23,8 +23,11 @@ title: research
 
 + Hongyi Tang (RA, 2024 Summer - Present)
 
++ Jinyuan Wang (RA, 2025 Summer - Present)
+
 **PhD Alumni**
-+ Dr. Jiaxin Liu (Quantitative Analytics Associate, Barclays, 2024, PhD #3)
+
++ Dr. Jiaxin Liu (Quantitative Analytics Associate, Barclays, 2024, PhD #3, Co-supervised with Prof. Kar Yan Tam)
 
 + Dr. Yue Guo (Applied Research Engineer, Tencent, 2024, PhD #2)
 
