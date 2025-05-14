@@ -30,6 +30,16 @@ Zhihao Zhu, Yi Yang, Jin Chen, Yangyang Fan, Defu Lian.
 *Major Revision*.     
 {: .working}
 
++ PatentsNET: A Graph Representation Learning Approach for Predicting Patent Economic Value and Litigation Risk.     
+Zhitao Yin, Yi Yang, Zhuoyi Peng, Zhenghan Zhang.     
+*Major Revision*.     
+{: .working}
+
++ Conversation Modeling: Analyzing Earnings Conference Calls for Financial Risk Prediction.     
+Yanlong Huang, Yi Yang, Yangyang Fan, Kunpeng Zhang.     
+*Major Revision*.     
+{: .working}
+
 + Reading Between the Lines: A Text-based Deep Learning Approach for Understanding Company Dynamics.     
 Hanyu Duan, Yi Yang, Kar Yan Tam.     
 *Major Revision*.     
