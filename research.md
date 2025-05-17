@@ -15,6 +15,16 @@ title: research
 </span>
 
 {% include publication-buttons.html %}
++ Adapting General-Purpose Embedding Models to Private Datasets Using Keyword-based Retrieval.   
+Yubai Wei, Jiale Han, Yi Yang.    
+*Findings of Annual Meeting of the Association for Computational Linguistics* (***ACL Findings***). Long Paper. 2025.    
+{: .nlp}
+
++ Know the Unknown: An Uncertainty-Sensitive Method for LLM Instruction Tuning.   
+Jiaqi Li, Yixuan Tang, Yi Yang.    
+*Findings of Annual Meeting of the Association for Computational Linguistics* (***ACL Findings***). Long Paper. 2025.    
+{: .nlp}
+
 + Bias A-head? Analyzing Bias in Transformer-Based Language Model Attention Heads.    
 Hanyu Duan, Yi Yang, Ahmed Abbasi, John P. Lalor, Kar Yan Tam.    
 *Fifth Workshop on Trustworthy Natural Language Processing* (***TrustNLP***). 2025.    
