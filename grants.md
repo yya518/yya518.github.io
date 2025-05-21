@@ -13,6 +13,8 @@ My research has been generously supported by funding from the Hong Kong Research
 
 **PI** 
 
++ HKUST Bridge Gap Fund (HK $312,300), *Automatic Embedding Adaptation for Enterprise Proprietary Data*, 2025-2026
+
 + HKUST-WeBank Joint Laboratory (WeBank) (HK $500,000), *Key Technologies for Combating GenAI-based Financial Fraud*, 2025-2026
 
 + HKUST-WeBank Joint Laboratory (WeBank) (HK $580,608), *Multimodal Financial Large Language Model for Stock Market Prediction*, 2024-2026
