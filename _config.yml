@@ -10,3 +10,6 @@ name: Yi Yang Homepage
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  input: GFM
