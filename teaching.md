@@ -9,9 +9,9 @@ title: teaching
 <br>
 **Instructor@Hong Kong University of Science and Technology** 
 
-+ ISOM3360 (Undergraduate): Data Mining for Business Analytics. [Spring 2018, Spring 2019, Spring 2020, Spring 2021, Spring 2022, Spring 2023, Spring 2024] 
++ ISOM3360 (Undergraduate): Data Mining for Business Analytics. [Spring 2018, Spring 2019, Spring 2020, Spring 2021, Spring 2022, Spring 2023, Spring 2024, Spring 2025] 
 
-+ ISOM3370 (Undergraduate): Big Data Technologies. [Spring 2019, Spring 2020, Spring 2021, Spring 2022, Spring 2023, Spring 2024]
++ ISOM3370 (Undergraduate): Big Data Technologies. [Spring 2019, Spring 2020, Spring 2021, Spring 2022, Spring 2023, Spring 2024, Spring 2025]
 
 + ISOM5270 (MBA Full-time): Big Data Analytics. [Spring 2019, Spring 2020, Spring 2021]
 
@@ -19,7 +19,7 @@ title: teaching
 
 + ISOM5270 (Msc in Global Operatoins): Big Data Analytics. [Spring 2022]
 
-+ ISOM5270 (Msc in Accounting): Big Data Analytics. [Spring 2022, Spring 2023, Spring 2024]
++ ISOM5270 (Msc in Accounting): Big Data Analytics. [Spring 2022, Spring 2023, Spring 2024, Spring 2025]
 
 &#9733;I am the finalist for **The Franklin Prize for Teaching Excellence** for Year 2018, Year 2021, Year 2023 and Year 2024.
 <br><br><br>

@@ -6,6 +6,7 @@ title: research
 ## Yi Yang | Students
 
 * * *
+I am fortunate to work with these brilliant students, who bring unique energy, curiosity, and insight to our research.
 
 **Current Students and RA**
 
@@ -23,13 +24,13 @@ title: research
 
 + Jiale Han (Postdoc, 2024 Summer - Present)
 
-+ Yubai Wei (RA, 2024 Summer - Present)
-
 + Hongyi Tang (RA, 2024 Summer - Present)
 
 + Jinyuan Wang (RA, 2025 Summer - Present)
 
 + Ningyuan Deng (RA, 2025 Summer - Present)
+
++ Zhaozhao Ma (RA, 2025 Summer - Present)
 
 **PhD Alumni**
 
@@ -41,6 +42,8 @@ title: research
 
 
 **Past Students and RAs** 
+
++ Yubai Wei (RA, 2024 - 2025)
 
 + Jiaqi Li (RA, 2023 - 2024)
 
