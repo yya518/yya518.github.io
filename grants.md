@@ -60,7 +60,7 @@ My research has been generously supported by funding from the Hong Kong Research
       <td>Hong Kong Research Grants Council <br>General Research Fund (GRF)</td>
       <td>HKD $661,494</td>
       <td><em>From Inquiry to Purchase: Optimizing Large Language Model-Based Conversational AI for Enhanced Customer Conversion</em></td>
-      <td>2026–2028</td>
+      <td>2025–2028</td>
     </tr>
     <tr>
       <td>13</td>
