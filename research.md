@@ -57,7 +57,12 @@ Hanyu Duan, Yi Yang, Kar Yan Tam.
 
 + Hypergraph Modeling of Supply Chains: Unveiling the Impact of High-Order and Temporal Dynamics on Credit Risk Prediction.    
 Jialei Han, Yi Yang, Yangyang Fan, Zhongju Zhang.     
-*Under Review*     
+*Major Revision*     
+{: .working}
+
++ HoneyImage: Verifiable, Harmless, and Stealthy Dataset Ownership Verification for Image Models.     
+Hanyu Duan, Yi Yang, Ahmed Abbasi, Kar Yan Tam.     
+*Under Review*.     
 {: .working}
 
 + TDDBench: A Benchmark for Training Data Detection.    
