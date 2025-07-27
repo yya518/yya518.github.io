@@ -61,7 +61,7 @@ Jialei Han, Yi Yang, Yangyang Fan, Zhongju Zhang.
 {: .working}
 
 + HoneyImage: Verifiable, Harmless, and Stealthy Dataset Ownership Verification for Image Models.     
-Hanyu Duan, Yi Yang, Ahmed Abbasi, Kar Yan Tam.     
+Zhihao Zhu, Jiale Han, Yi Yang.     
 *Under Review*.     
 {: .working}
 
