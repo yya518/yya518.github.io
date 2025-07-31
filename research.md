@@ -46,7 +46,7 @@ Zhitao Yin, Yi Yang, Zhuoyi Peng, Zhenghan Zhang.
 {: .working}
 
 + Conversation Modeling: Analyzing Earnings Conference Calls for Financial Risk Prediction.     
-Yanlong Huang, Yi Yang, Yangyang Fan, Kunpeng Zhang.     
+Yi Yang, Yixuan Tang, Yangyang Fan, Kunpeng Zhang.     
 *Major Revision*.     
 {: .working}
 
