@@ -177,6 +177,13 @@ My research has been generously supported by funding from the Hong Kong Research
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td>4</td>
+      <td>HKUST–WeBank Joint Laboratory</td>
+      <td>Co-PI</td>
+      <td><em>FinBERT Pro and FinSent: Context-Specific Sentiment Analysis for Financial Professionals</em></td>
+      <td>2024-2026</td>
+  </tr>
     <tr>
       <td>3</td>
       <td>Hong Kong Research Grants Council  <br>Theme-based Research Scheme</td>
