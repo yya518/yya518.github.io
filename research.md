@@ -15,6 +15,21 @@ title: research
 </span>
 
 {% include publication-buttons.html %}
++ Identifying Pre-training Data in LLMs: A Neuron Activation-Based Detection Framework.   
+Hongyi Tang, Zhihao Zhu, Yi Yang.    
+*Conference on Empirical Methods in Natural Language Processing* (***EMNLP***). Long Paper. 2025.   
+{: .nlp}
+
++ FinMTEB: Finance Massive Text Embedding Benchmark.   
+Yixuan Tang, Yi Yang.    
+*Conference on Empirical Methods in Natural Language Processing* (***EMNLP***). Long Paper. 2025.   
+{: .nlp}
+
++ Evaluating and Aligning Human Economic Risk Preferences in LLMs.   
+Jiaxin Liu, Yixuan Tang, Yi Yang.    
+*Conference on Empirical Methods in Natural Language Processing* (***EMNLP***). Long Paper. 2025.   
+{: .nlp}
+
 + Adapting General-Purpose Embedding Models to Private Datasets Using Keyword-based Retrieval.   
 Yubai Wei, Jiale Han, Yi Yang.    
 *Findings of Annual Meeting of the Association for Computational Linguistics* (***ACL Findings***). Long Paper. 2025.    
