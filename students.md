@@ -20,9 +20,9 @@ I am fortunate to work with these brilliant students, who bring unique energy, c
 
 + Jingzhou Jiang (PhD student, Co-supervised with Prof. Kar Yan Tam, 2025 Fall - Present)
 
-+ Zhihao Zhu (Visiting student, 2023 Summer - Present)
++ Dr. Zhihao Zhu (Postdoc, 2025 Summer - Present)
 
-+ Jiale Han (Postdoc, 2024 Summer - Present)
++ Dr. Jiale Han (Postdoc, 2024 Summer - Present)
 
 + Hongyi Tang (RA, 2024 Summer - Present)
 
