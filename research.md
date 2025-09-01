@@ -26,7 +26,7 @@ Yixuan Tang, Yi Yang.
 {: .nlp}
 
 + Evaluating and Aligning Human Economic Risk Preferences in LLMs.   
-Jiaxin Liu, Yixuan Tang, Yi Yang.    
+Jiaxin Liu, Yixuan Tang, Yi Yang, Kar Yan Tam.    
 *Conference on Empirical Methods in Natural Language Processing* (***EMNLP***). Long Paper. 2025.   
 {: .nlp}
 
