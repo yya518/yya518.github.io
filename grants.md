@@ -56,6 +56,15 @@ My research has been generously supported by funding from the Hong Kong Research
   </thead>
   <tbody>
     <tr>
+      <td>15</td>
+      <td>HKUST–WeBank Joint Laboratory</td>
+      <td>HKD $500,000</td>
+      <td><em>Key Technologies for Enhanced Case Retrieval in Anti-Money Laundering Systems
+</em></td>
+      <td>2025–2027</td>
+    </tr>
+
+    <tr>
       <td>14</td>
       <td>Hong Kong Research Grants Council <br>General Research Fund (GRF)</td>
       <td>HKD $661,494</td>
