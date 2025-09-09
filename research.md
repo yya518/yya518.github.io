@@ -45,6 +45,11 @@ Hanyu Duan, Yi Yang, Ahmed Abbasi, John P. Lalor, Kar Yan Tam.
 *Fifth Workshop on Trustworthy Natural Language Processing* (***TrustNLP***). 2025.    
 {: .nlp}
 
++ PersonaFuse: A Personality Activation-Driven Framework for Enhancing Human-LLM Interactions.     
+Yixuan Tang, Yi Yang, Ahmed Abbasi.     
+*Under Review*.     
+{: .working}    
+
 + Predicting Practically? Domain Generalization for Predictive Analytics in Real-world Environments.     
 Hanyu Duan, Yi Yang, Ahmed Abbasi, Kar Yan Tam.     
 *Major Revision*.     
