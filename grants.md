@@ -55,6 +55,16 @@ My research has been generously supported by funding from the Hong Kong Research
     </tr>
   </thead>
   <tbody>
+
+        <tr>
+      <td>16</td>
+      <td>HKUST Strategic Fund for Futuristic Business Research</td>
+      <td>HKD $2,500,000</td>
+      <td><em>The Triad of the Future: AI, Humans, and Organizations
+      </em></td>
+      <td>2025–2027</td>
+    </tr>
+
     <tr>
       <td>15</td>
       <td>HKUST–WeBank Joint Laboratory</td>

@@ -55,6 +55,11 @@ Hanyu Duan, Yi Yang, Ahmed Abbasi, Kar Yan Tam.
 *Major Revision*.     
 {: .working}
 
++ Designing Financial Text Embeddings with Persona–Based Supervision.     
+Yixuan Tang, Yi Yang.     
+*Under Review*.     
+{: .working}   
+
 + Forget Me If You Can: Auditing User Data Revocation in Recommendation Systems.     
 Zhihao Zhu, Yi Yang, Jin Chen, Yangyang Fan, Defu Lian.     
 *Major Revision*.     
