@@ -15,6 +15,11 @@ title: research
 </span>
 
 {% include publication-buttons.html %}
++ Learning from Earnings Calls: Graph-Based Conversational Modeling for Financial Prediction.     
+Yi Yang, Yixuan Tang, Yangyang Fan, Kunpeng Zhang.     
+***Information Systems Research*** (*Accepted*).     
+{: .business}
+
 + Identifying Pre-training Data in LLMs: A Neuron Activation-Based Detection Framework.   
 Hongyi Tang, Zhihao Zhu, Yi Yang.    
 *Conference on Empirical Methods in Natural Language Processing* (***EMNLP***). Long Paper. 2025.   
@@ -67,11 +72,6 @@ Zhihao Zhu, Yi Yang, Jin Chen, Yangyang Fan, Defu Lian.
 
 + PatentsNET: A Graph Representation Learning Approach for Predicting Patent Economic Value and Litigation Risk.     
 Zhitao Yin, Yi Yang, Zhuoyi Peng, Zhenghan Zhang.     
-*Major Revision*.     
-{: .working}
-
-+ Conversation Modeling: Analyzing Earnings Conference Calls for Financial Risk Prediction.     
-Yi Yang, Yixuan Tang, Yangyang Fan, Kunpeng Zhang.     
 *Major Revision*.     
 {: .working}
 
