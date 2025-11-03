@@ -17,7 +17,7 @@ title: research
 {% include publication-buttons.html %}
 + Learning from Earnings Calls: Graph-Based Conversational Modeling for Financial Prediction.     
 Yi Yang, Yixuan Tang, Yangyang Fan, Kunpeng Zhang.     
-***Information Systems Research*** (*Accepted*).     
+***Information Systems Research***. Accepted.     
 {: .business}
 
 + Identifying Pre-training Data in LLMs: A Neuron Activation-Based Detection Framework.   
