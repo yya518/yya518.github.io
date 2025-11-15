@@ -55,9 +55,14 @@ Yixuan Tang, Yi Yang, Ahmed Abbasi.
 *Under Review*.     
 {: .working}    
 
-+ Predicting Practically? Domain Generalization for Predictive Analytics in Real-world Environments.     
++ Robust Predictive Modeling under Unseen Data Distribution Shifts: A Methodological Commentary.     
 Hanyu Duan, Yi Yang, Ahmed Abbasi, Kar Yan Tam.     
 *Major Revision*.     
+{: .working}
+
++ LLM-Measure: Generating Valid, Consistent, and Reproducible Text-Based Measures for Information Systems Research.     
+Hanyu Duan, Jiaxin Liu, Yi Yang, Kar Yan Tam.     
+*Under Review*.     
 {: .working}
 
 + Designing Financial Text Embeddings with Persona–Based Supervision.     
