@@ -17,7 +17,7 @@ title: research
 {% include publication-buttons.html %}
 + Learning from Earnings Calls: Graph-Based Conversational Modeling for Financial Prediction.     
 Yi Yang, Yixuan Tang, Yangyang Fan, Kunpeng Zhang.     
-***Information Systems Research***. Accepted.     
+***Information Systems Research***. Forthcoming.     
 {: .business}
 
 + Identifying Pre-training Data in LLMs: A Neuron Activation-Based Detection Framework.   
@@ -52,7 +52,7 @@ Hanyu Duan, Yi Yang, Ahmed Abbasi, John P. Lalor, Kar Yan Tam.
 
 + PersonaFuse: A Personality Activation-Driven Framework for Enhancing Human-LLM Interactions.     
 Yixuan Tang, Yi Yang, Ahmed Abbasi.     
-*Under Review*.     
+*Major Revision*.     
 {: .working}    
 
 + Robust Predictive Modeling under Unseen Data Distribution Shifts: A Methodological Commentary.     
@@ -65,10 +65,10 @@ Hanyu Duan, Jiaxin Liu, Yi Yang, Kar Yan Tam.
 *Under Review*.     
 {: .working}
 
-+ Designing Financial Text Embeddings with Persona–Based Supervision.     
+<!--+ Designing Financial Text Embeddings with Persona–Based Supervision.     
 Yixuan Tang, Yi Yang.     
 *Under Review*.     
-{: .working}   
+{: .working}   -->
 
 + Forget Me If You Can: Auditing User Data Revocation in Recommendation Systems.     
 Zhihao Zhu, Yi Yang, Jin Chen, Yangyang Fan, Defu Lian.     

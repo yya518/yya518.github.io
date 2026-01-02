@@ -11,9 +11,9 @@ layout: default
 
 <span style="font-size:24px;">I am also the Director of the [Center for Business and Social Analytics (CBSA)](https://cbsa.hkust.edu.hk/).</span><br>
 
-<span style="font-size:24px;">I am currently an Associate Editor for the INFORMS Journal on Computing, a member of the Editorial Review Board for Information Systems Research (*ISR*), and an Associate Editor for the MIS Quarterly (*MISQ*) Special Issue on "The Institutional Press in the Digital Age". I am also a Senior Area Chair for the ACL Rolling Review (*ARR*). </span><br>
+<span style="font-size:24px;">I am currently an Associate Editor for Information Systems Research (*ISR*), an Associate Editor for INFORMS Journal on Computing, and an Associate Editor for the MIS Quarterly (*MISQ*) Special Issue on "The Institutional Press in the Digital Age" and Special Issue on "Ethics, Regulation, and Policy". I am also a Senior Area Chair for the ACL Rolling Review (*ARR*). </span><br>
 
-<span style="font-size:24px;">My research interests are natural language processing (NLP), machine learning, statistical inference, and their applications in finance and business.  </span><br>
+<span style="font-size:24px;">My research interests are natural language processing (NLP), large language model (LLM), machine learning, statistical inference, and their applications in finance and business.  </span><br>
 
 <span style="font-size:24px;">I obtained a Ph.D. degree in Computer Science at Northwestern University in 2015, and a bachelor's degree from University of Science and Technology of China (USTC) in 2009.</span><br>
 
@@ -23,6 +23,6 @@ layout: default
 </span>-->
 
 
-<span style="color:red;">&#9733; Postdoc, RA Positions Available in NLP and Machine Learning. Please email me your CV if interested.<br>
+<span style="color:red;">&#9733; RA Positions Available in NLP, LLM and Machine Learning. Please email me your CV if interested.<br>
 </span>
 
