@@ -15,6 +15,11 @@ title: research
 </span>
 
 {% include publication-buttons.html %}
++ Revealing the Numeracy Gap: An Empirical Investigation of Text Embedding Models.   
+Ningyuan Deng, Hanyu Duan, Yixuan Tang, Yi Yang.    
+*Conference of the European Chapter of the Association for Computational Linguistics* (***EACL Findings***). Long Paper. 2026.   
+{: .nlp}
+
 + Learning from Earnings Calls: Graph-Based Conversational Modeling for Financial Prediction.     
 Yi Yang, Yixuan Tang, Yangyang Fan, Kunpeng Zhang.     
 ***Information Systems Research***. Forthcoming.     
@@ -65,10 +70,10 @@ Hanyu Duan, Jiaxin Liu, Yi Yang, Kar Yan Tam.
 *Under Review*.     
 {: .working}
 
-<!--+ Designing Financial Text Embeddings with Persona–Based Supervision.     
++ Designing Financial Text Embeddings with Persona–Based Supervision.     
 Yixuan Tang, Yi Yang.     
 *Under Review*.     
-{: .working}   -->
+{: .working}   
 
 + Forget Me If You Can: Auditing User Data Revocation in Recommendation Systems.     
 Zhihao Zhu, Yi Yang, Jin Chen, Yangyang Fan, Defu Lian.     
