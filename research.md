@@ -15,6 +15,12 @@ title: research
 </span>
 
 {% include publication-buttons.html %}
++ Robust Predictive Modeling under Unseen Data Distribution Shifts: A Methodological Commentary.     
+Hanyu Duan, Yi Yang, Ahmed Abbasi, Kar Yan Tam.     
+***Information Systems Research***. Forthcoming.     
+{: .business}
+
+
 + Revealing the Numeracy Gap: An Empirical Investigation of Text Embedding Models.   
 Ningyuan Deng, Hanyu Duan, Yixuan Tang, Yi Yang.    
 *Conference of the European Chapter of the Association for Computational Linguistics* (***EACL Findings***). Long Paper. 2026.   
@@ -60,10 +66,6 @@ Yixuan Tang, Yi Yang, Ahmed Abbasi.
 *Major Revision*.     
 {: .working}    
 
-+ Robust Predictive Modeling under Unseen Data Distribution Shifts: A Methodological Commentary.     
-Hanyu Duan, Yi Yang, Ahmed Abbasi, Kar Yan Tam.     
-*Major Revision*.     
-{: .working}
 
 + LLM-Measure: Generating Valid, Consistent, and Reproducible Text-Based Measures for Information Systems Research.     
 Hanyu Duan, Jiaxin Liu, Yi Yang, Kar Yan Tam.     
