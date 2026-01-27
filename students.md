@@ -30,7 +30,9 @@ I am fortunate to work with these brilliant students, who bring unique energy, c
 
 + Ningyuan Deng (RA, 2025 Summer - Present)
 
-+ Zhaozhao Ma (RA, 2025 Summer - Present)
++ Ho Hung Lim (RA, 2025 Fall - Present)
+
++ Yin Tian (RA, 2025 Fall - Present)
 
 **PhD Alumni**
 

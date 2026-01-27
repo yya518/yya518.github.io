@@ -15,6 +15,11 @@ title: research
 </span>
 
 {% include publication-buttons.html %}
++ GAPrune: Gradient-Alignment Pruning for Domain-Aware Embeddings.    
+Yixuan Tang, Yi Yang.    
+*International Conference on Learning Representations* (***ICLR***). 2026.    
+{: .nlp}
+
 + Robust Predictive Modeling under Unseen Data Distribution Shifts: A Methodological Commentary.     
 Hanyu Duan, Yi Yang, Ahmed Abbasi, Kar Yan Tam.     
 ***Information Systems Research***. Forthcoming.     
