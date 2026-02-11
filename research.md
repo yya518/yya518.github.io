@@ -15,6 +15,12 @@ title: research
 </span>
 
 {% include publication-buttons.html %}
+
++ Forget Me If You Can: Auditing User Data Revocation in Recommendation Systems.     
+Zhihao Zhu, Yi Yang, Yangyang Fan, Defu Lian.     
+***Information Systems Research***. Forthcoming.     
+{: .business}
+
 + GAPrune: Gradient-Alignment Pruning for Domain-Aware Embeddings.    
 Yixuan Tang, Yi Yang.    
 *International Conference on Learning Representations* (***ICLR***). 2026.    
@@ -81,11 +87,6 @@ Hanyu Duan, Jiaxin Liu, Yi Yang, Kar Yan Tam.
 Yixuan Tang, Yi Yang.     
 *Under Review*.     
 {: .working}   
-
-+ Forget Me If You Can: Auditing User Data Revocation in Recommendation Systems.     
-Zhihao Zhu, Yi Yang, Jin Chen, Yangyang Fan, Defu Lian.     
-*Major Revision*.     
-{: .working}
 
 + PatentsNET: A Graph Representation Learning Approach for Predicting Patent Economic Value and Litigation Risk.     
 Zhitao Yin, Yi Yang, Zhuoyi Peng, Zhenghan Zhang.     
