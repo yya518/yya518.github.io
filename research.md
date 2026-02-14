@@ -80,7 +80,7 @@ Yixuan Tang, Yi Yang, Ahmed Abbasi.
 
 + LLM-Measure: Generating Valid, Consistent, and Reproducible Text-Based Measures for Information Systems Research.     
 Hanyu Duan, Jiaxin Liu, Yi Yang, Kar Yan Tam.     
-*Under Review*.     
+*Major Revision*.     
 {: .working}
 
 + Designing Financial Text Embeddings with Persona–Based Supervision.     
