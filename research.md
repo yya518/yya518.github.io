@@ -8,7 +8,7 @@ title: research
 
 * * *
 
-<span style="font-size:24px;"> My research on business analytics and NLP is published in major business-discipline journals and major NLP/AI conferences and journals.</span>
+<span style="font-size:24px;"> My research on NLP, AI and Fintech is published in major business journals and major NLP/AI conferences and journals.</span>
 
 <span style="font-size:24px;">
 [Google Scholar](https://scholar.google.com/citations?user=Prh_dHkAAAAJ)
