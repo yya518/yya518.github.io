@@ -34,6 +34,8 @@ I am fortunate to work with these brilliant students, who bring unique energy, c
 
 + Yin Tian (RA, 2025 Fall - Present)
 
++ Hongshi Liu (RA, 2026 Spring - Present)
+
 **PhD Alumni**
 
 + Dr. Jiaxin Liu (Quantitative Analytics Associate, Barclays, 2024, PhD #3, Co-supervised with Prof. Kar Yan Tam)
@@ -45,26 +47,24 @@ I am fortunate to work with these brilliant students, who bring unique energy, c
 
 **Past Students and RAs** 
 
-+ Yubai Wei (RA, 2024 - 2025)
++ Yubai Wei (RA, 2024 - 2025, next: University of Turku)
 
-+ Jiaqi Li (RA, 2023 - 2024)
++ Jiaqi Li (RA, 2023 - 2024, next: University of Warwick)
 
-+ Xinyi Wang (UG Student, HKUST Math -> UCSB, CS PhD, 2018 - 2020)
++ Xinyi Wang (HKUST UG Student, 2018 - 2020, next: University of California Santa Barbara, CS PhD)
 
-+ Yu Qin (UG Intern, Renmin University of China -> University Of Utah, ISOM PhD, 2018 Summer)
++ Yu Qin (RA, 2018 Summer, next: University Of Utah, IS PhD)
 
-+ Siddhartha Datta (UG Student, HKUST Business -> Oxford, CS PhD, 2019 Summer)
++ Siddhartha Datta (HKUST UG Student, 2019 Summer, next: University of Oxford, CS PhD)
 
-+ Cheng Yu Chuang (UG Student, HKUST -> Goldmans Sachs, 2021 Fall)
++ Cheng Yu Chuang (HKUST UG Student, 2021 Fall, next: Goldmans Sachs)
 
-+ Mark Christopher Siy UY (UG RA, HKUST CSE -> J.P. Morgan, 2019 Summer)
++ Mark Christopher Siy UY (HKUST UG Student, 2019 Summer, next: J.P. Morgan)
 
-+ Tianle Li (UG Student, HKUST CSE -> University of Waterloo, 2020 Summer)
++ Tianle Li (HKUST UG Student, 2020 Summer, next: University of Waterloo)
 
-+ Monique Tung Kong (UG RA, HKUST Business School, 2020 Summer) 
++ Monique Tung Kong (HKUST UG Student, 2020 Summer) 
 
-+ Weixuan Dong (PG Student, HKUST Big Data Technology, 2021 Summer)
++ Weixuan Dong (HKUST PG Student, 2021 Summer)
 
-+ Luke Chen (RA, HKUST -> CUHK PhD, 2021 Winter)
-
-+ Zihan Meng (MPhil student, GZ Campus, Co-supervised with Prof. Qiong Luo, CSE, 2020 - 2022)
++ Luke Chen (RA, 2021 Winter, next: CUHK CS PhD)

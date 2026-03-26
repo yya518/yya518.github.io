@@ -85,7 +85,7 @@ Hanyu Duan, Jiaxin Liu, Yi Yang, Kar Yan Tam.
 
 + Designing Financial Text Embeddings with Persona–Based Supervision.     
 Yixuan Tang, Yi Yang.     
-*Under Review*.     
+*Major Revision*.     
 {: .working}   
 
 + PatentsNET: A Graph Representation Learning Approach for Predicting Patent Economic Value and Litigation Risk.     
@@ -95,6 +95,11 @@ Zhitao Yin, Yi Yang, Zhuoyi Peng, Zhenghan Zhang.
 
 + Reading Between the Lines: A Text-based Deep Learning Approach for Understanding Company Dynamics.     
 Hanyu Duan, Yi Yang, Kar Yan Tam.     
+*Major Revision*.     
+{: .working}
+
+Dual IT Strategy and Firm Performance: New Insights by Inferring Firm Strategies from a Deep Learning Approach.    
+Yi Yang, Chewei Liu, Terence Saldanha, Sunil Mithas.    
 *Major Revision*.     
 {: .working}
 
