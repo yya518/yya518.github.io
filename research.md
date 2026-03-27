@@ -98,7 +98,7 @@ Hanyu Duan, Yi Yang, Kar Yan Tam.
 *Major Revision*.     
 {: .working}
 
-Dual IT Strategy and Firm Performance: New Insights by Inferring Firm Strategies from a Deep Learning Approach.    
++ Dual IT Strategy and Firm Performance: New Insights by Inferring Firm Strategies from a Deep Learning Approach.    
 Yi Yang, Chewei Liu, Terence Saldanha, Sunil Mithas.    
 *Major Revision*.     
 {: .working}
