@@ -15,6 +15,20 @@ title: research
 </span>
 
 {% include publication-buttons.html %}
++ KV-Embedding: Training-free Text Embedding via Internal KV Re-routing in Decoder-only LLMs.   
+Yixuan Tang, Yi Yang.    
+*Annual Meeting of the Association for Computational Linguistics* (***ACL***). Long Paper. 2026.    
+{: .nlp}
+
++ FLARE: Task-Agnostic Embedding Model Evaluation via Normalizing Flows.   
+Jingzhou Jiang, Yixuan Tang, Yi Yang, Kar Yan Tam.    
+*Findings of Annual Meeting of the Association for Computational Linguistics* (***ACL Findings***). Long Paper. 2026.    
+{: .nlp}
+
++ A Picture is Worth a Thousand Words? An Empirical Study of Aggregation Strategies for Visual Financial Document Retrieval.   
+Ho Hung Lim, Yi Yang.    
+*Findings of Annual Meeting of the Association for Computational Linguistics* (***ACL Findings***). Short Paper. 2026.    
+{: .nlp}
 
 + Forget Me If You Can: Auditing User Data Revocation in Recommendation Systems.     
 Zhihao Zhu, Yi Yang, Yangyang Fan, Defu Lian.     
