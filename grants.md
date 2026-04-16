@@ -196,6 +196,13 @@ My research has been generously supported by funding from the Hong Kong Research
     </tr>
   </thead>
   <tbody>
+        <tr>
+      <td>5</td>
+      <td>Hong Kong Research Grants Council  <br>Research Impact Fund</td>
+      <td>Co-PI</td>
+      <td><em>ZKDI: A Zero-Knowledge Proof-based Data Intelligence System for Financial and Web3 Data Analytics</em></td>
+      <td>2026-</td>
+  </tr>
      <tr>
       <td>4</td>
       <td>HKUST–WeBank Joint Laboratory</td>

@@ -24,7 +24,7 @@ title: teaching
 &#9733;I am the finalist for **The Franklin Prize for Teaching Excellence** for Year 2018, Year 2021, Year 2023, Year 2024 and Year 2025.
 <br><br><br>
 
-
+<!--
 **Instructor@University of Illinois at Urbana-Champaign** 
 
 + BADM352: Database Design and Management. [[course page]](badm352)    
@@ -37,4 +37,4 @@ title: teaching
 **Teaching Assistant@Northwestern University**  
 EECS 348: Introduction to Artificial Intelligence.  [Spring 2015]  
 EECS 211: Fundamentals of Computer Programming (C++).  [Fall 2010]
-
+-->

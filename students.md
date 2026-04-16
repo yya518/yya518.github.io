@@ -22,8 +22,6 @@ I am fortunate to work with these brilliant students, who bring unique energy, c
 
 + Dr. Zhihao Zhu (Postdoc, 2025 Summer - Present)
 
-+ Dr. Jiale Han (Postdoc, 2024 Summer - Present)
-
 + Hongyi Tang (RA, 2024 Summer - Present)
 
 + Jinyuan Wang (RA, 2025 Summer - Present)
@@ -36,35 +34,36 @@ I am fortunate to work with these brilliant students, who bring unique energy, c
 
 + Hongshi Liu (RA, 2026 Spring - Present)
 
-**PhD Alumni**
+**PhD and Postdoc Alumni**
++ Dr. Jiale Han (Postdoc, 2026, Next: Research Assistant Professor, Shenzhen Loop Area Institute)
 
-+ Dr. Jiaxin Liu (Quantitative Analytics Associate, Barclays, 2024, PhD #3, Co-supervised with Prof. Kar Yan Tam)
++ Dr. Jiaxin Liu (PhD #3, 2024, Co-supervised with Prof. Kar Yan Tam, Next: Quantitative Analytics Associate, Barclays)
 
-+ Dr. Yue Guo (Applied Research Engineer, Tencent, 2024, PhD #2)
++ Dr. Yue Guo (PhD #2, 2024, Next: Applied Research Engineer, Tencent)
 
-+ Dr. Yingpeng Zhu (Assistant Professor, University of Macau, 2023, PhD #1)
++ Dr. Yingpeng Zhu (PhD #1, 2023, Next: Assistant Professor, University of Macau)
 
 
 **Past Students and RAs** 
 
-+ Yubai Wei (RA, 2024 - 2025, next: University of Turku)
++ Yubai Wei (RA, 2024 - 2025, Next: University of Turku, CS PhD)
 
-+ Jiaqi Li (RA, 2023 - 2024, next: University of Warwick)
++ Jiaqi Li (RA, 2023 - 2024, Next: University of Warwick, CS PhD)
 
-+ Xinyi Wang (HKUST UG Student, 2018 - 2020, next: University of California Santa Barbara, CS PhD)
++ Xinyi Wang (HKUST UG Student, 2018 - 2020, Next: University of California Santa Barbara, CS PhD)
 
-+ Yu Qin (RA, 2018 Summer, next: University Of Utah, IS PhD)
++ Yu Qin (RA, 2018 Summer, next: University Of Next, IS PhD)
 
-+ Siddhartha Datta (HKUST UG Student, 2019 Summer, next: University of Oxford, CS PhD)
++ Siddhartha Datta (HKUST UG Student, 2019 Summer, Next: University of Oxford, CS PhD)
 
-+ Cheng Yu Chuang (HKUST UG Student, 2021 Fall, next: Goldmans Sachs)
++ Cheng Yu Chuang (HKUST UG Student, 2021 Fall, Next: Goldmans Sachs)
 
-+ Mark Christopher Siy UY (HKUST UG Student, 2019 Summer, next: J.P. Morgan)
++ Mark Christopher Siy UY (HKUST UG Student, 2019 Summer, Next: J.P. Morgan)
 
-+ Tianle Li (HKUST UG Student, 2020 Summer, next: University of Waterloo)
++ Tianle Li (HKUST UG Student, 2020 Summer, Next: University of Waterloo, CS Msc)
 
 + Monique Tung Kong (HKUST UG Student, 2020 Summer) 
 
 + Weixuan Dong (HKUST PG Student, 2021 Summer)
 
-+ Luke Chen (RA, 2021 Winter, next: CUHK CS PhD)
++ Luke Chen (RA, 2021 Winter, Next: CUHK, CS PhD)

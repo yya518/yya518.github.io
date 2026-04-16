@@ -109,7 +109,7 @@ Zhitao Yin, Yi Yang, Zhuoyi Peng, Zhenghan Zhang.
 
 + Reading Between the Lines: A Text-based Deep Learning Approach for Understanding Company Dynamics.     
 Hanyu Duan, Yi Yang, Kar Yan Tam.     
-*Major Revision*.     
+*Conditional Accept*.     
 {: .working}
 
 + Dual IT Strategy and Firm Performance: New Insights by Inferring Firm Strategies from a Deep Learning Approach.    
@@ -124,6 +124,11 @@ Jialei Han, Yi Yang, Yangyang Fan, Zhongju Zhang.
 
 + HoneyImage: Verifiable, Harmless, and Stealthy Dataset Ownership Verification for Image Models.     
 Zhihao Zhu, Jiale Han, Yi Yang.     
+*Under Review*.     
+{: .working}
+
++ RecShield: Output-Level Attribute Unlearning in Recommender Systems.     
+Zhihao Zhu, Yi Yang.     
 *Under Review*.     
 {: .working}
 
