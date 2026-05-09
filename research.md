@@ -122,6 +122,12 @@ Jialei Han, Yi Yang, Yangyang Fan, Zhongju Zhang.
 *Major Revision*     
 {: .working}
 
+
++ Multi-Self Presentation and Knowledge Contribution in Platform Operations: Evidence from a Natural Experiment.     
+Yingpeng Zhu, Gen Li, Zike Cao, Liangfei Qiu, Yi Yang.     
+*Major Revision*.     
+{: .working}   
+
 + HoneyImage: Verifiable, Harmless, and Stealthy Dataset Ownership Verification for Image Models.     
 Zhihao Zhu, Jiale Han, Yi Yang.     
 *Under Review*.     
@@ -131,6 +137,11 @@ Zhihao Zhu, Jiale Han, Yi Yang.
 Zhihao Zhu, Yi Yang.     
 *Under Review*.     
 {: .working}
+
++ LambdaRankIC: Directly Optimizing Rank IC for Financial Prediction.     
+Yan Lin, Yihong Su, Yi Yang.     
+*Under Review*.     
+{: .working}   
 
 + TDDBench: A Benchmark for Training Data Detection.    
 Zhihao Zhu, Yi Yang, Defu Lian.    

@@ -22,8 +22,6 @@ I am fortunate to work with these brilliant students, who bring unique energy, c
 
 + Dr. Zhihao Zhu (Postdoc, 2025 Summer - Present)
 
-+ Hongyi Tang (RA, 2024 Summer - Present)
-
 + Jinyuan Wang (RA, 2025 Summer - Present)
 
 + Ningyuan Deng (RA, 2025 Summer - Present)
@@ -34,17 +32,20 @@ I am fortunate to work with these brilliant students, who bring unique energy, c
 
 + Hongshi Liu (RA, 2026 Spring - Present)
 
+
 **PhD and Postdoc Alumni**
 + Dr. Jiale Han (Postdoc, 2026, Next: Research Assistant Professor, Shenzhen Loop Area Institute)
 
-+ Dr. Jiaxin Liu (PhD #3, 2024, Co-supervised with Prof. Kar Yan Tam, Next: Quantitative Analytics Associate, Barclays)
++ Dr. Jiaxin Liu (PhD #3, 2024, Co-supervised with Prof. Kar Yan Tam, Next: Associate, Barclays Investment Bank)
 
-+ Dr. Yue Guo (PhD #2, 2024, Next: Applied Research Engineer, Tencent)
++ Dr. Yue Guo (PhD #2, 2024, Next: Applied Researcher, Tencent)
 
 + Dr. Yingpeng Zhu (PhD #1, 2023, Next: Assistant Professor, University of Macau)
 
 
 **Past Students and RAs** 
+
++ Hongyi Tang (RA, 2024 - 2026, Next: Hong Kong Polytechnic University, IS PhD)
 
 + Yubai Wei (RA, 2024 - 2025, Next: University of Turku, CS PhD)
 
