@@ -130,7 +130,7 @@ Yingpeng Zhu, Gen Li, Zike Cao, Liangfei Qiu, Yi Yang.
 
 + HoneyImage: Verifiable, Harmless, and Stealthy Dataset Ownership Verification for Image Models.     
 Zhihao Zhu, Jiale Han, Yi Yang.     
-*Under Review*.     
+*Major Revision*.     
 {: .working}
 
 + RecShield: Output-Level Attribute Unlearning in Recommender Systems.     
