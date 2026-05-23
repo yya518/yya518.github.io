@@ -15,6 +15,12 @@ title: research
 </span>
 
 {% include publication-buttons.html %}
+
++ Reading Between the Lines: A Text-based Deep Learning Approach for Understanding Company Dynamics.     
+Hanyu Duan, Yi Yang, Kar Yan Tam.     
+***MIS Quarterly***. Forthcoming. 
+{: .business}
+
 + KV-Embedding: Training-free Text Embedding via Internal KV Re-routing in Decoder-only LLMs.   
 Yixuan Tang, Yi Yang.    
 *Annual Meeting of the Association for Computational Linguistics* (***ACL***). Long Paper. 2026.    
@@ -32,7 +38,7 @@ Ho Hung Lim, Yi Yang.
 
 + Forget Me If You Can: Auditing User Data Revocation in Recommendation Systems.     
 Zhihao Zhu, Yi Yang, Yangyang Fan, Defu Lian.     
-***Information Systems Research***. Forthcoming.     
+***Information Systems Research***. 2026.     
 {: .business}
 
 + GAPrune: Gradient-Alignment Pruning for Domain-Aware Embeddings.    
@@ -42,7 +48,7 @@ Yixuan Tang, Yi Yang.
 
 + Robust Predictive Modeling under Unseen Data Distribution Shifts: A Methodological Commentary.     
 Hanyu Duan, Yi Yang, Ahmed Abbasi, Kar Yan Tam.     
-***Information Systems Research***. Forthcoming.     
+***Information Systems Research***. 2026.     
 {: .business}
 
 
@@ -53,7 +59,7 @@ Ningyuan Deng, Hanyu Duan, Yixuan Tang, Yi Yang.
 
 + Learning from Earnings Calls: Graph-Based Conversational Modeling for Financial Prediction.     
 Yi Yang, Yixuan Tang, Yangyang Fan, Kunpeng Zhang.     
-***Information Systems Research***. Forthcoming.     
+***Information Systems Research***. 2026.     
 {: .business}
 
 + Identifying Pre-training Data in LLMs: A Neuron Activation-Based Detection Framework.   
@@ -106,11 +112,6 @@ Yixuan Tang, Yi Yang.
 Zhitao Yin, Yi Yang, Zhuoyi Peng, Zhenghan Zhang.     
 *Major Revision*.     
 {: .working}
-
-+ Reading Between the Lines: A Text-based Deep Learning Approach for Understanding Company Dynamics.     
-Hanyu Duan, Yi Yang, Kar Yan Tam.     
-*MIS Quarterly*. Accepted. 
-{: .business}
 
 + Dual IT Strategy and Firm Performance: New Insights by Inferring Firm Strategies from a Deep Learning Approach.    
 Yi Yang, Chewei Liu, Terence Saldanha, Sunil Mithas.    
