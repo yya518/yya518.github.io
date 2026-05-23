@@ -109,8 +109,8 @@ Zhitao Yin, Yi Yang, Zhuoyi Peng, Zhenghan Zhang.
 
 + Reading Between the Lines: A Text-based Deep Learning Approach for Understanding Company Dynamics.     
 Hanyu Duan, Yi Yang, Kar Yan Tam.     
-*Conditional Accept*.     
-{: .working}
+*MIS Quarterly*. Accepted. 
+{: .business}
 
 + Dual IT Strategy and Firm Performance: New Insights by Inferring Firm Strategies from a Deep Learning Approach.    
 Yi Yang, Chewei Liu, Terence Saldanha, Sunil Mithas.    
