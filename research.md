@@ -139,6 +139,11 @@ Zhihao Zhu, Yi Yang.
 *Under Review*.     
 {: .working}
 
++ GraphMSA: Stress Testing Graph Classification Services Against Model Stealing Attacks.     
+Zhihao Zhu, Yi Yang, Chenwang Wu, Defu Lian.     
+*Under Review*.     
+{: .working}
+
 + LambdaRankIC: Directly Optimizing Rank IC for Financial Prediction.     
 Yan Lin, Yihong Su, Yi Yang.     
 *Under Review*.     
