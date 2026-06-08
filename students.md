@@ -14,13 +14,13 @@ I am fortunate to work with these brilliant students, who bring unique energy, c
 
 + Zhuoyi Peng (PhD student, 2023 Fall - Present)
 
-+ Yixuan Tang (PhD student, 2024 Fall - Present)
++ Yixuan Tang (PhD student, 2024 Fall - Present) [Personal Website](https://yixuantt.github.io/)
 
 + Austin Cheung (PhD student, 2025 Fall - Present)
 
 + Jingzhou Jiang (PhD student, Co-supervised with Prof. Kar Yan Tam, 2025 Fall - Present)
 
-+ Dr. Zhihao Zhu (Postdoc, 2025 Summer - Present)
++ Dr. Zhihao Zhu (Postdoc, 2025 Summer - Present) [Personal Website](https://zzh9568.github.io/)
 
 + Jinyuan Wang (RA, 2025 Summer - Present)
 
