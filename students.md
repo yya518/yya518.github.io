@@ -10,29 +10,29 @@ I am fortunate to work with these brilliant students, who bring unique energy, c
 
 **Current Students and RA**
 
-+ Hanyu Duan (PhD student, Co-supervised with Prof. Kar Yan Tam, 2021 Fall - Present)   
++ Hanyu Duan (PhD student, HKUST ISOM, Co-supervised with Prof. Kar Yan Tam, 2021 Fall - Present)   
 
-+ Zhuoyi Peng (PhD student, 2023 Fall - Present)
++ Zhuoyi Peng (PhD student, HKUST ISOM, 2023 Fall - Present)
 
-+ Yixuan Tang (PhD student, 2024 Fall - Present) [Personal Website](https://yixuantt.github.io/)
++ Yixuan Tang (PhD student, HKUST ISOM, 2024 Fall - Present) [Personal Website](https://yixuantt.github.io/)
 
-+ Austin Cheung (PhD student, 2025 Fall - Present)
++ Austin Cheung (PhD student, HKUST ISOM, 2025 Fall - Present)
 
-+ Jingzhou Jiang (PhD student, Co-supervised with Prof. Kar Yan Tam, 2025 Fall - Present)
++ Jingzhou Jiang (PhD student, HKUST ISOM, Co-supervised with Prof. Kar Yan Tam, 2025 Fall - Present)
 
 + Dr. Zhihao Zhu (Postdoc, 2025 Summer - Present) [Personal Website](https://zzh9568.github.io/)
 
-+ Jinyuan Wang (RA, 2025 Summer - Present)
++ Jinyuan Wang (PhD student, HKUST AIS, 2026 Fall)
 
-+ Ningyuan Deng (RA, 2025 Summer - Present)
-
-+ Ho Hung Lim (RA, 2025 Fall - Present)
++ Ningyuan Deng (PhD student, HKUST AIS, 2026 Fall)
 
 + Yin Tian (RA, 2025 Fall - Present)
 
 + Hongshi Liu (RA, 2026 Spring - Present)
 
 + Yuetong Wu (RA, 2026 Summer - Present)
+
++ Yang Liu (RA, 2026 Summer - Present)
 
 
 **PhD and Postdoc Alumni**
@@ -46,6 +46,8 @@ I am fortunate to work with these brilliant students, who bring unique energy, c
 
 
 **Past Students and RAs** 
+
++ Ho Hung Lim (RA, 2025 Fall - 2026 Summer)
 
 + Hongyi Tang (RA, 2024 - 2026, Next: Hong Kong Polytechnic University, IS PhD)
 

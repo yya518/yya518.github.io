@@ -94,9 +94,13 @@ Hanyu Duan, Yi Yang, Ahmed Abbasi, John P. Lalor, Kar Yan Tam.
 
 + PersonaFuse: A Personality Activation-Driven Framework for Enhancing Human-LLM Interactions.     
 Yixuan Tang, Yi Yang, Ahmed Abbasi.     
-*Major Revision*.     
+*Minor Revision*.     
 {: .working}    
 
++ Governing Execution Risk in Agentic AI Systems: A Trajectory-Guided Framework for Red Teaming.     
+Zhihao Zhu, Yi Yang.     
+*Under Review*.     
+{: .working}
 
 + LLM-Measure: Generating Valid, Consistent, and Reproducible Text-Based Measures for Information Systems Research.     
 Hanyu Duan, Jiaxin Liu, Yi Yang, Kar Yan Tam.     
