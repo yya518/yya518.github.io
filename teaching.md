@@ -24,6 +24,14 @@ title: teaching
 &#9733;I am the finalist for **The Franklin Prize for Teaching Excellence** for Year 2018, Year 2021, Year 2023, Year 2024 and Year 2025.
 <br><br><br>
 
+
+**Executive Education@Hong Kong University of Science and Technology**
+
++ **AI for Executives**, ExecEdu Open Program. 2026
+
++ **GenAI for Business**, HKSAR Government, AXA, Eqvilent, Waqf Fund / Central Bank of Bahrain, Hong Kong Joiest College. 2025-2026
+
+<br><br><br>
 <!--
 **Instructor@University of Illinois at Urbana-Champaign** 
 
