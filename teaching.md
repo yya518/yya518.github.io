@@ -9,29 +9,27 @@ title: teaching
 <br>
 **Instructor@Hong Kong University of Science and Technology** 
 
-+ ISOM3360 (Undergraduate): Data Mining for Business Analytics. 2018-2026 
+**UG, MSc & MBA**
 
-+ ISOM3370 (Undergraduate): Big Data Technologies. 2019-2026
-
-+ ISOM5270 (MBA Full-time): Big Data Analytics. 2019-2021
-
-+ ISOM5270 (MBA for Professionals Part-time): Big Data Analytics. 2020
-
-+ ISOM5270 (Msc in Global Operatoins): Big Data Analytics. 2022
-
-+ ISOM5270 (Msc in Accounting): Big Data Analytics. 2022-2025
+- ISOM3360 (Undergraduate): Data Mining for Business Analytics. 2018-2026
+- ISOM3370 (Undergraduate): Big Data Technologies. 2019-2026
+- ISOM5270 (MBA Full-time): Big Data Analytics. 2019-2021
+- ISOM5270 (MBA for Professionals Part-time): Big Data Analytics. 2020
+- ISOM5270 (MSc in Global Operations): Big Data Analytics. 2022
+- ISOM5270 (MSc in Accounting): Big Data Analytics. 2022-2025
 
 &#9733;I am the finalist for **The Franklin Prize for Teaching Excellence** for Year 2018, Year 2021, Year 2023, Year 2024 and Year 2025.
 <br><br><br>
 
 
-**Executive Education@Hong Kong University of Science and Technology**
+**Executive Education**
 
-+ **AI for Executives**, ExecEdu Open Program. 2026
-
-+ **GenAI for Business**, HKSAR Government, AXA, Eqvilent, Waqf Fund / Central Bank of Bahrain, Hong Kong Joiest College. 2025-2026
+- **AI for Executives**, HKUST Business School Executive Education Open Program. 2026
+- **GenAI for Business**, HKSAR Government, AXA, Equvilent, Waqf Fund / Central Bank of Bahrain, and Hong Kong Joiest College. 2025-2026
 
 <br><br><br>
+
+
 <!--
 **Instructor@University of Illinois at Urbana-Champaign** 
 
