@@ -34,6 +34,8 @@ I am fortunate to work with these brilliant students, who bring unique energy, c
 
 + Yang Liu (RA, 2026 Summer - Present)
 
++ William Jallot (Visiting Student, EPFL, 2026 Fall)
+
 
 **PhD and Postdoc Alumni**
 + Dr. Jiale Han (Postdoc, 2026, Next: Research Assistant Professor, Shenzhen Loop Area Institute)
@@ -57,7 +59,7 @@ I am fortunate to work with these brilliant students, who bring unique energy, c
 
 + Xinyi Wang (HKUST UG Student, 2018 - 2020, Next: University of California Santa Barbara, CS PhD)
 
-+ Yu Qin (RA, 2018 Summer, next: University Of Next, IS PhD)
++ Yu Qin (RA, 2018 Summer, next: University Of Utah, IS PhD)
 
 + Siddhartha Datta (HKUST UG Student, 2019 Summer, Next: University of Oxford, CS PhD)
 

@@ -15,6 +15,25 @@ title: research
 </span>
 
 {% include publication-buttons.html %}
++ SR-GRPO: Stable Rank as an Intrinsic Geometric Reward for Large Language Model Alignment.   
+Yixuan Tang, Yi Yang.    
+*Annual Conference on Neural Information Processing Systems* (***NeurIPS***). 2026.    
+{: .nlp}
+
++ Crowded in B-Space: Calibrating Shared Directions for LoRA Merging.   
+Yixuan Tang, Yi Yang.    
+*Annual Conference on Neural Information Processing Systems* (***NeurIPS***). 2026.    
+{: .nlp}
+
++ Beyond the Golden Teacher: Enhancing Graph Learning through LLM-GNN Co-teaching.   
+Zhuoyi Peng, Hanlin Gu, Lixin Fan, Yi Yang.    
+*Annual Conference on Neural Information Processing Systems* (***NeurIPS***). 2026.    
+{: .nlp}
+
++ Multi-Self Presentation and Knowledge Contribution in Platform Operations: Evidence from a Natural Experiment.     
+Yingpeng Zhu, Gen Li, Zike Cao, Liangfei Qiu, Yi Yang.     
+***Production and Operations Management***. Forthcoming. 
+{: .business}   
 
 + Reading Between the Lines: A Text-based Deep Learning Approach for Understanding Company Dynamics.     
 Hanyu Duan, Yi Yang, Kar Yan Tam.     
@@ -127,12 +146,6 @@ Jialei Han, Yi Yang, Yangyang Fan, Zhongju Zhang.
 *Major Revision*     
 {: .working}
 
-
-+ Multi-Self Presentation and Knowledge Contribution in Platform Operations: Evidence from a Natural Experiment.     
-Yingpeng Zhu, Gen Li, Zike Cao, Liangfei Qiu, Yi Yang.     
-*Major Revision*.     
-{: .working}   
-
 + HoneyImage: Verifiable, Harmless, and Stealthy Dataset Ownership Verification for Image Models.     
 Zhihao Zhu, Jiale Han, Yi Yang.     
 *Major Revision*.     
@@ -150,7 +163,7 @@ Zhihao Zhu, Yi Yang, Chenwang Wu, Defu Lian.
 
 + LambdaRankIC: Directly Optimizing Rank IC for Financial Prediction.     
 Yan Lin, Yihong Su, Yi Yang.     
-*Under Review*.     
+*Major Revision*.     
 {: .working}   
 
 + TDDBench: A Benchmark for Training Data Detection.    
