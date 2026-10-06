@@ -15,6 +15,11 @@ title: research
 </span>
 
 {% include publication-buttons.html %}
++ Mind the Shift: Decoding Monetary Policy Stance from FOMC Statements with Large Language Models.   
+Yixuan Tang, Yi Yang.    
+*International Conference on AI in Finance* (***ICAIF***). 2026.    
+{: .nlp}
+
 + SR-GRPO: Stable Rank as an Intrinsic Geometric Reward for Large Language Model Alignment.   
 Yixuan Tang, Yi Yang.    
 *Annual Conference on Neural Information Processing Systems* (***NeurIPS***). 2026.    
@@ -111,7 +116,7 @@ Hanyu Duan, Yi Yang, Ahmed Abbasi, John P. Lalor, Kar Yan Tam.
 *Fifth Workshop on Trustworthy Natural Language Processing* (***TrustNLP***). 2025.    
 {: .nlp}
 
-+ PersonaFuse: A Personality Activation-Driven Framework for Enhancing Human-LLM Interactions.     
++ PersonaFuse: A Situation-Aware Post-Training Framework for Adaptive LLM Behavior in Enterprise Tasks.     
 Yixuan Tang, Yi Yang, Ahmed Abbasi.     
 *Minor Revision*.     
 {: .working}    
