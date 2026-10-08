@@ -131,7 +131,7 @@ Hanyu Duan, Jiaxin Liu, Yi Yang, Kar Yan Tam.
 *Major Revision*.     
 {: .working}
 
-+ Designing Financial Text Embeddings with Persona–Based Supervision.     
++ Designing Financial Text Embeddings.     
 Yixuan Tang, Yi Yang.     
 *Major Revision*.     
 {: .working}   
@@ -141,8 +141,8 @@ Zhitao Yin, Yi Yang, Zhuoyi Peng, Zhenghan Zhang.
 *Major Revision*.     
 {: .working}
 
-+ Dual IT Strategy and Firm Performance: New Insights by Inferring Firm Strategies from a Deep Learning Approach.    
-Yi Yang, Chewei Liu, Terence Saldanha, Sunil Mithas.    
++ Dual AI Strategy and Firm Performance: New Insights by Inferring Firm AI Strategies from a Large Language Model Approach.    
+Yi Yang, Yixuan Tang, Chewei Liu, Terence Saldanha, Sunil Mithas.    
 *Major Revision*.     
 {: .working}
 
