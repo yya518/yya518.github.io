@@ -15,6 +15,11 @@ title: research
 </span>
 
 {% include publication-buttons.html %}
++ PersonaFuse: A Situation-Aware Post-Training Framework for Adaptive LLM Behavior in Enterprise Tasks.     
+Yixuan Tang, Yi Yang, Ahmed Abbasi.     
+*Management Science*. Accepted.     
+{: .business}  
+
 + Mind the Shift: Decoding Monetary Policy Stance from FOMC Statements with Large Language Models.   
 Yixuan Tang, Yi Yang.    
 *International Conference on AI in Finance* (***ICAIF***). 2026.    
@@ -115,11 +120,6 @@ Jiaqi Li, Yixuan Tang, Yi Yang.
 Hanyu Duan, Yi Yang, Ahmed Abbasi, John P. Lalor, Kar Yan Tam.    
 *Fifth Workshop on Trustworthy Natural Language Processing* (***TrustNLP***). 2025.    
 {: .nlp}
-
-+ PersonaFuse: A Situation-Aware Post-Training Framework for Adaptive LLM Behavior in Enterprise Tasks.     
-Yixuan Tang, Yi Yang, Ahmed Abbasi.     
-*Minor Revision*.     
-{: .working}    
 
 + Governing Execution Risk in Agentic AI Systems: A Trajectory-Guided Framework for Red Teaming.     
 Zhihao Zhu, Yi Yang.     
