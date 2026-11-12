@@ -17,7 +17,7 @@ title: research
 {% include publication-buttons.html %}
 + PersonaFuse: A Situation-Aware Post-Training Framework for Adaptive LLM Behavior in Enterprise Tasks.     
 Yixuan Tang, Yi Yang, Ahmed Abbasi.     
-*Management Science*. Accepted.     
+***Management Science***. Accepted.     
 {: .business}  
 
 + Mind the Shift: Decoding Monetary Policy Stance from FOMC Statements with Large Language Models.   
