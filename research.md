@@ -121,6 +121,11 @@ Hanyu Duan, Yi Yang, Ahmed Abbasi, John P. Lalor, Kar Yan Tam.
 *Fifth Workshop on Trustworthy Natural Language Processing* (***TrustNLP***). 2025.    
 {: .nlp}
 
++ FinVision: Multimodal AI for Visualizing Financial Narratives.     
+Yixuan Tang, Hui Wang, Yi Yang, Allen Huang.     
+*Under Review*.     
+{: .working}
+
 + Governing Execution Risk in Agentic AI Systems: A Trajectory-Guided Framework for Red Teaming.     
 Zhihao Zhu, Yi Yang.     
 *Under Review*.     
